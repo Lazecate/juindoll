@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" >
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <title>个人HEXO博客使用手册 | Lifestream - 得意忘言</title>
+  <meta name="description" content="A perspective blog" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="/juindoll/css/screen.css" />
+  <link rel="stylesheet" type="text/css" href="/juindoll/css/style.css" />
+  <meta name="generator" content="Lifestream - 得意忘言">
+
+  
+  
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="atom.xml">
+  
+  
+
+  
+</head>
+
+<!--
+<body class="post-template">
+-->
+<body class="home-template">
+<div id="perspective" class="perspective effect-movedown">
+  <div class="container">
+    <!-- wrapper -->
+    <div class="wrapper">
+
+      <header class="site-head"  style="background: #24282b url(/img/img-bg.jpg) 0 -20%" >
+    <div class="vertical">
+        <div class="site-head-content inner">
+             <a class="blog-logo" href="/juindoll/"><img src="/img/logo.svg" alt="Blog Logo"/></a> 
+            <h1 class="blog-title">Lifestream - 得意忘言</h1>
+            <h2 class="blog-description">A perspective blog<button id="showMenu">Show Menu</button></h2>
+        </div>
+    </div>
+</header>
+
+      
+
+<main class="content" role="main">
+  <article class="post">
+    <span class="post-meta">
+      <time datetime="2014-05-20T15:19:15.000Z" itemprop="datePublished">
+          2014-05-20
+      </time>
+    
+    
+    | 
+    <a href='/juindoll/tags/blog/'>blog</a>,
+    
+    <a href='/juindoll/tags/hexo/'>hexo</a>,
+    
+    <a href='/juindoll/tags/建站/'>建站</a>
+    
+    
+</span>
+    <h1 class="post-title">个人HEXO博客使用手册</h1>
+    <section class="post-content">
+      <p>Hexo 建站需要手动操作的地方很多，并且有时候需要从头再来，所以很有必要记录下一个程式化的流程。<br>这样可以节省再配置的时间，也可以避免对同一问题反复搜索。<br>以后也会根据“技能 get”情况，陆续更新本帖。<br><a id="more"></a></p>
+<ol>
+<li><p><strong>写博客的流程：</strong></p>
+<blockquote>
+<ul>
+<li><code>cd hexo</code></li>
+<li><code>hexo new &quot;postName&quot;</code></li>
+<li>编辑 source_post\目录下的postName.md （文件头格式）</li>
+<li><code>hexo generate</code> #将内容更新到hexo\public目录下</li>
+<li><code>hexo server</code> 搭建本地服务器</li>
+<li>在localhost:4000 查看效果，进行反复调试。<code>ctrl+c</code>退出。</li>
+<li><code>hexo deploy</code> 发布到github上，完成更新。</li>
+</ul>
+</blockquote>
+</li>
+<li><p><strong>高阶设定：</strong></p>
+<blockquote>
+<ul>
+<li>把<code>&lt;!--more--&gt;</code>放在想作为摘要的一段文字的下方。则这段文字自动成为文章摘要。下方会显示“阅读全文”</li>
+<li><code>hexo new page &quot;about&quot;</code>自定义About页面。然后可以在_config.yml中配置about</li>
+<li>也可以直接创建source\about\index.html，然后配置</li>
+<li>图片显示：在 Source 目录下建立 img 的文件夹，将图片中要使用的图片放入这个文件夹，之后在 markdown 中的语法是： <code>![hello](image/hello.jpg)</code>,<br>比如,<code>![wordpress](../img/wordpress.jpg)</code></li>
+<li>创建草稿在 source/_drafts/new-draft.md, 语句是：<code>hexo new draft &quot;New Draft&quot;</code></li>
+<li>在博客中插入 Vimeo，youtube视频，语句是：<code><div class="video-container"><iframe src="//player.vimeo.com/video/video_id" frameborder="0" allowfullscreen></iframe></div></code></li>
+</ul>
+</blockquote>
+</li>
+</ol>
+<ol start="3">
+<li><p><strong>修改Theme</strong></p>
+<blockquote>
+<ul>
+<li>主题安装：<code>git clone &lt;source url&gt;</code></li>
+<li>主题配置：hexo_config.yml中<ul>
+<li><em>theme</em>:主题名， 主题名要与上一步拷贝的文件夹名一致</li>
+<li><em>menu</em>：配置页头显示那些菜单，冒号后面对应的是各个文件夹<ul>
+<li>归档：/archives</li>
+<li>阅读：/reading</li>
+<li>关于：/about</li>
+</ul>
+</li>
+<li><em>widgets</em>: 配置页面一侧显示哪些栏目<ul>
+<li>category</li>
+<li>tag</li>
+<li>tagcloud</li>
+<li>recent posts</li>
+<li>blogroll</li>
+</ul>
+</li>
+<li><em>blogroll</em>: 友情链接<ul>
+<li><code>- bruce sha&#39;s duapp wordpress: http://ibruce.duapp.com</code> </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>主题更新：<code>cd themes/主题名</code> ， 然后输入<code>git pull</code>。</li>
+</ul>
+</blockquote>
+</li>
+<li><p><strong>其他配置</strong></p>
+<blockquote>
+<ul>
+<li>hexo更新： <code>npm update -g hexo</code> 在hexo目录下。</li>
+<li>Tips: 无论是插件还是主题在安装后都需要在根目录下_config.yml中修改plugins和theme的值以启用他们。</li>
+<li>未完待续…</li>
+</ul>
+</blockquote>
+</li>
+</ol>
+<p>   ####Bug</p>
+<ol>
+<li>如果以中文为文章名，则 title 后要用双引号，否则文件头的配置信息就识别不出来。</li>
+<li><code>&lt;!--more--&gt;</code>注意more 是全小写。</li>
+</ol>
+<hr>
+<p>  欢迎关注微信号 QuickFlip，获取更多精彩内容。</p>
+<p>   <img src="http://imglf1.ph.126.net/d9v8HML5i2Qkn78J1C5isQ==/6608731186980256486.jpg" alt="qrcode"></p>
+
+    </section>
+    <footer class="post-footer">
+      <section class="author">
+    <h4>Lazecate</h4>
+    <p>联结左右脑，关注技术与艺术的结合</p>
+</section>
+      <section class="share">
+    <h4>Share this post</h4>
+    <a class="icon-sina-weibo" href="http://v.t.sina.com.cn/share/share.php?title=联结左右脑，关注技术与艺术的结合 ?url=https://lazecate.github.io/juindoll/2014/05/20/HexoManual/" target="_blank">
+        <span class="hidden">weibo</span>
+    </a>
+    <a class="icon-twitter" href="http://twitter.com/share?url=https://lazecate.github.io/juindoll/2014/05/20/HexoManual/"
+       onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+        <span class="hidden">Twitter</span>
+    </a>
+    <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://lazecate.github.io/juindoll/2014/05/20/HexoManual/"
+       onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+        <span class="hidden">Facebook</span>
+    </a>
+    <a class="icon-google-plus" href="https://plus.google.com/share?url=https://lazecate.github.io/juindoll/2014/05/20/HexoManual/"
+       onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+        <span class="hidden">Google+</span>
+    </a>
+</section>
+
+    </footer>
+  </article>
+  <nav class="pagination" role="pagination">
+    
+    <a class="newer-posts" href="/juindoll/2014/05/22/Chasing the Sun/">
+        ← 流行歌曲与诗歌
+    </a>
+    
+    <span class="icon-logo">•</span>
+    
+    <a class="older-posts" href="/juindoll/2014/05/19/2014-5-20/">
+        个人知识管理 →
+    </a>
+    
+</nav>
+
+  <div id="comment" class="comments-area">
+    <h4 class="title"><a href="#disqus_comments" name="disqus_comments">Comments</a></h4>
+    
+</div>
+
+</main>
+
+
+      
+<footer class="site-footer">
+  
+  <div class="inner">
+     <section class="copyright">All content copyright <a href="/juindoll/">Lifestream - 得意忘言</a> &copy; 2018 &bull; All rights reserved.</section>
+     <section class="poweredby">Proudly published with Hexo</a></section>
+  </div>
+</footer>
+
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+<script type="text/javascript" src="/juindoll/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/juindoll/js/index.js"></script>
+<script type="text/javascript" src="/juindoll/js/menu.js"></script>
+
+
+
+
+
+  </div>
+</div>
+
+<nav  class="outer-nav top horizontal">
+
+          <a class="icon-home"  href="/juindoll/../whale"><span>Home</span></a>
+
+          <a class="icon-news"  href="/juindoll/archives"><span>Archive</span></a>
+
+          <a class="icon-image"  href="/juindoll/images"><span>Images</span></a>
+
+          <a class="icon-wiki"  href="/juindoll/wiki/2014-10-28-wiki/"><span>Wiki</span></a>
+
+          <a class="icon-Favorites"  href="/juindoll/favorites"><span>Favorites</span></a>
+
+          <a class="icon-mail"  href="/juindoll/about/"><span>Contact</span></a>
+
+</nav>
+
+</div>
+</body>
+</html>
