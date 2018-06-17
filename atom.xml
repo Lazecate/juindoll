@@ -3,11 +3,11 @@
   <title>Lifestream - 得意忘言</title>
   <icon>https://www.gravatar.com/avatar/d68fcc15388e786287ff3e0eed71e8f4</icon>
   <subtitle>A perspective blog</subtitle>
-  <link href="%E2%80%98/juindoll/%E2%80%98/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="%E2%80%98https://lazecate.github.io/juindoll%E2%80%99/"/>
+  <link href="https://lazecate.github.io/juindoll/"/>
   <updated>2018-06-17T11:50:50.000Z</updated>
-  <id>‘https://lazecate.github.io/juindoll’/</id>
+  <id>https://lazecate.github.io/juindoll/</id>
   
   <author>
     <name>Lazecate</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>新一轮Hexo折腾</title>
-    <link href="%E2%80%98https://lazecate.github.io/juindoll%E2%80%99/2018/06/17/hello-world/"/>
-    <id>‘https://lazecate.github.io/juindoll’/2018/06/17/hello-world/</id>
+    <link href="https://lazecate.github.io/juindoll/2018/06/17/hello-world/"/>
+    <id>https://lazecate.github.io/juindoll/2018/06/17/hello-world/</id>
     <published>2018-06-17T10:25:22.000Z</published>
     <updated>2018-06-17T11:50:50.000Z</updated>
     
@@ -35,9 +35,9 @@
     </summary>
     
     
-      <category term="HEXO" scheme="%E2%80%98https://lazecate.github.io/juindoll%E2%80%99/tags/HEXO/"/>
+      <category term="HEXO" scheme="https://lazecate.github.io/juindoll/tags/HEXO/"/>
     
-      <category term="DIY BLOG" scheme="%E2%80%98https://lazecate.github.io/juindoll%E2%80%99/tags/DIY-BLOG/"/>
+      <category term="DIY BLOG" scheme="https://lazecate.github.io/juindoll/tags/DIY-BLOG/"/>
     
   </entry>
   
