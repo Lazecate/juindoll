@@ -42,6 +42,84 @@
   </entry>
   
   <entry>
+    <title>Design talks with Business 2</title>
+    <link href="https://lazecate.github.io/2017/12/17/Design-talks-with-Business-2/"/>
+    <id>https://lazecate.github.io/2017/12/17/Design-talks-with-Business-2/</id>
+    <published>2017-12-17T15:21:44.000Z</published>
+    <updated>2018-06-17T15:58:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>#####商业智能</p><p>正式商用用户逐渐多起来, 虽然累,心烦,但快速地迭代响应过程中激发的感悟也很多,这让我再次确认了自己喜欢经历这样的事情. 从去年对新行业什么都不懂,到一点点地设计结构功能,梳理逻辑,最有成就感的莫过于亲手设计的功能,跟客户实际的生意发生关系,每一笔金钱的流转都跟你曾经的预想蓝图相关,我们的产品虽然还不完善,但它承受住了现实考验,让客户的生意在上面跑了起来.每每想起这一点,我都觉得感慨万千, 果然还是喜欢这种–自己的付出和努力,能在看得见的地方,直接地看到效果,评估产出.这是一种真实的游戏.</p><a id="more"></a><p>幸运的是, 我们遇到了那么多值得尊敬的客户,在技术手段不发达的情况下,他们靠自身的商业天赋和努力,凭人力管好了巨大的生意,如指挥军队一样有效。这跟大型企业完全不同,没有人提供已经验证好的框架让你循规蹈矩,风险全部自己承担，危险又刺激，也就能令人在摸爬滚打中积累了足够的应变能力。<br>这也让我重新思考商业智能这个概念, 其重点应在商业,而不是智能,智能只是辅助手段.在商业需求的主导下,用智能作为工具,提高商业的效率,创造更大的价值,才是这类解决方案的真正价值.<br>系统服务的目的不是去人工化,而是去人工重复劳动,将人的智能解放出来,用于更丰富的决策。系统始终是个给定输入,反馈可以预期的装置,但丰富的与人的接口,使输入变量增加,直接导致了输出结果的多样变化。</p><p>我们做为一个服务平台,也是一个沉淀行业先进管理方法的平台,尽管底层基础是由我们设计的但随着用户的介入,它的演化就成了多方博弈，需求的输入也将影响了系统的组成。先进的管理组织方法,往往是建立在对资源更有效的组织调配上。平台不断满足用户的需求,迭代,将先进组织在线下人工实现的高效方法提纯出来,由系统/机器智能去执行,也就完成了这种管理方法的沉淀，将那些隐性知识显性化,变成可操作可复制的流程,不因人员变动而品质迥异。好的流程\好的操作方法通过A客户的需求而在系统中得到实现,得到留存,而B客户可以完全开放地享受\学习先进智慧。这将是一个多赢的结果,促进先进服务经验、管理经验的普及和交流,而我们作为商业智能的维护者\传播者而存在。</p><p>#####形而上-意义的传递/转换<br>游客通过浏览分销运营者维护的站点，获得了出行灵感，从而缩小期望范围，锁定了出行目的地。通过网络的引导，他们最终下单。<br>0和1世界每一次状态翻转都与一个休闲度假、家庭出游或者一场冒险关联。当一次美好的期待驱使，下单按钮的点击，不就是游客自身完成的一次抽象，他从对未知旅程的想象中抽出一支“骨头”或一条“线”，用它作为自己旅行的基线，可以允许一些惊喜与意外。当想要些确定性与稳定性时，他就会选择点按下单按钮。每一条订单的达成，意味着一条“轨道”架设成功。<br>这个过程其实是通过技术和系统将一次休闲享受需求抽象为一个便于传递的订单信息，传递给系统，再转达给服务商。每一次交易，意味着一次价值、意义的传递，从消费者的休闲度假或关爱重要的人的愿望，转变为分销运营者的KPI指标，再转移成目的地资源业主的生意，最后变成直接服务者赖以养家糊口的收入。<br>虽然所有相关人员的目的、利益更有不同，但商业，具体说来是通过订单，将各方联系起来、组织起来。他们对到来的陌生人并无好恶，但却都愿意帮助他们实现愿望。这就是经济的力量，组织起来毫不费力，同样的力量也让我们的工具自动参与其中。<br>这抽象是一种模糊、人为地人为用户想象的服务于服务者提供的内涵是等价等同的。如何让用户对他所体验的服务满意是一个多对一积累下来的智慧。目的地服务商为一，众多往来的游客即为多。服务商通过与众多游客的交互，获得了管理用户预期的办法，借以提升用户对服务的满意度。<br>管理用户的预期的方法之一，是通过产品宣传页的描述，引导用户对即将体验的服务的想象。具体手段可以包括过来人的评价，图文视频说明，详细的旅行贴士等等。方法其二，是通过使用过的用户的反馈积极调整自身。但这种传递层级越多，越有损失的风险，如果跨文化更是如此，技术本身做的即是抽象，它舍弃了自己认为无需传递的信息， 一笔信息再丰富的订单，始终也是对用户美好愿景的压缩。到了服务商端，如何将这个压缩过的需求尽量还原，我想这还是一个悬而未解的问题。</p><p>尽管还有很多不确定性，然而决策就是在掌握信息有限的情况下，对未来根据掌握的部分信息，带着对未知的疑惑与忐忑做出决断的能力；所以说，系统不是提升商业表现的真正法门，善用工具的人的智慧和决策才是通向胜利的唯一钥匙。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#####商业智能&lt;/p&gt;
+&lt;p&gt;正式商用用户逐渐多起来, 虽然累,心烦,但快速地迭代响应过程中激发的感悟也很多,这让我再次确认了自己喜欢经历这样的事情. 从去年对新行业什么都不懂,到一点点地设计结构功能,梳理逻辑,最有成就感的莫过于亲手设计的功能,跟客户实际的生意发生关系,每一笔金钱的流转都跟你曾经的预想蓝图相关,我们的产品虽然还不完善,但它承受住了现实考验,让客户的生意在上面跑了起来.每每想起这一点,我都觉得感慨万千, 果然还是喜欢这种–自己的付出和努力,能在看得见的地方,直接地看到效果,评估产出.这是一种真实的游戏.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="商业" scheme="https://lazecate.github.io/tags/%E5%95%86%E4%B8%9A/"/>
+    
+      <category term="思维" scheme="https://lazecate.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+      <category term="设计" scheme="https://lazecate.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="产品" scheme="https://lazecate.github.io/tags/%E4%BA%A7%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Design talks with Business 1</title>
+    <link href="https://lazecate.github.io/2017/12/17/Design-talks-with-Business-1/"/>
+    <id>https://lazecate.github.io/2017/12/17/Design-talks-with-Business-1/</id>
+    <published>2017-12-17T15:21:44.000Z</published>
+    <updated>2018-06-17T15:57:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>岁末年底,按惯例应该写些什么。近两年一直忙碌,少有机会静下心来书写。好在工作中每每有所收获，还是会简要记下来,尤其近几个月,工作节奏很快, 每天大量地遭遇问题、解决问题, 从而激发了很多思考，总觉得不吐不快。 在此，希望将这一年做产品设计的一些心得体会整理记录下来，沉淀以期发酵。</p><h2 id="关于设计"><a href="#关于设计" class="headerlink" title="关于设计"></a>关于设计</h2><p>####设计的定义<br>这里不仅仅是比较表面的页面视觉上的设计,也包括产品服务的架构,配置,代码逻辑,业务逻辑等等,所有这些东西都可以归为设计。<br>因为所有这些相关环节都不是天然形成的,需要相关人员发挥个人能力去实现,无论他负责的是哪个环节,都要针对某个具体问题,预先制定解决方案再实现, 他以及验收者对最终实现的效果都有所预期。</p><a id="more"></a><p>#####设计方法论<br>我认为设计与艺术的区别在于, 设计是由外而内的,总是针对某一个具体的问题、通过调动内在能力去解决;而艺术则是由内而外的,为内在情感和能量寻找抒发的出口和媒介。有所针对，也就比较容易形成规律和总结经验，因此从负责一整个产品线到某个具体的功能点，在大量的实践中，我也形成了自己的设计方法论。</p><p><em><strong>梳理一个框架</strong></em><br>设计是要有的放矢的.面对模糊命题自然就要先认清问题。这通常会在解决一个较为模糊的商业问题时用到。</p><p>首先要做的是进行分析,将看似比较宽泛的主题进行拆解, 发散出相关的问题点。换句话说,它类似于从一个宽泛的面中提炼出关键的点。当发散的问题点足够多时,就可以尝试寻找这些关键点之间的关联。一旦我们从问题点之间找到了逻辑关联, 我们就有可能从平面的散点构建出多层级、立体的关系体系。这对于构建最初的产品架构,或者功能规划,是非常有益的.</p><p>如果第一步的问题分析做得足够充分, 后面的工作会简单很多, 也就是逐级拆解。根据前面的发散问题点的梳理, 会得出几个大的模块,即将一个大问题分包成子问题。接下来要做的跟之前有点类似, 还是继续拆解, 但得到的结果将是一个个更小的单位–功能点. </p><p><em><strong>继续拆解问题</strong></em><br>得到了功能点之后, 还没有结束, 我们的操作已经到了非常微观的层面。<br>具体针对某个功能点,我的工作流也会相应地更加细致, 对每个功能点,我都会构思出一个具体的Storyboard. 为什么叫Storyboard呢? 因为这个过程跟讲故事很类似, 要思考”时间””地点”人物””事件”等要素。只不过在产品意义上来说, 它们指场景,角色,对象以及操作反馈等等,将这些点梳理出来,也就得到了该功能的用例点.</p><p>接下来的工作更具体,我们需要对用例点进行拆解和规划,反复想象用户的使用流程,列举应该针对用户的行为提供哪些反馈,接收并传递哪些信息等等。基本上，梳理到用例点这个维度上,产出原型已经不是什么难事。最后,我们还需要整理从头到尾所有这些思考,将它落实到纸面上, 以方便与设计和开发人员进行沟通。</p><p>其实整个的过程,就是一个对现实的抽象过程,将一个具体的显示问题,提炼拆解成可以用技术手段实现的功能点。难点在于判断哪些是关键点,哪些是问题的核心。</p><p>我个人理解对问题的取舍和判断, 并非偶然,而是取决于产品设计者对于自身提供的服务的价值点的理解. 也就是产品设计者认为自己能够帮助用户解决什么问题，认为自己提供的服务的优势是什么. 例如,如果产品设计者将自家产品定义为提高用户的效率,那么他们会侧重梳理用户现有流程中，与大量人力重复劳动相关的问题。这与定位为帮助用户完成数据化的自然不同,后者可能会更侧重将现有人力操作流程标注化、数字化。</p><p>#####交互设计的作用<br>说到交互，其目的是让人从一些重复机械的操作中解放出来，由机器替代，它应该是操作指令的封装，最后达到的效果是通过最少动作，无论是一次点击还是一条语音，最方便地实现目的。在操作人与系统之间应达成共识，即这个点击或语音就代表用户期望得到某种结果。以这个目的为出发点，无论是按钮、语音还是打字，其实差别不大，只要支持用户选择自己最方便的操作方式即可。通过交互设计，我们将机器、程序变为人类生物能力的延展，扩大人的能力范围，但结果的多样化，应该是以人为出发点，由人的多变需求激发出多种变化，而作为交互对象的机器或程序不应该有太多的不确定性。通过交互传达人的意愿和系统反馈的确定性，这应该是交互设计的一个总的原则。</p><p><em><strong>规则传达</strong></em><br>产品设计者设计出操作规则后，需要把它分享给用户，当要表达复杂信息，已经超出了平面展示的承载能力（二维），就需要用三维、甚至四维的方式呈现信息。所谓三维就是说，在平面的页面上，当你操作了什么之后，系统根据动作给出反馈，以反馈来规范用户行为、引导用户行为，并传达信息。由于前置条件已知，传达信息的场景有了限制，传达的准确率会更高；在做交互设计的时候，首先应讨论清楚后台需要什么信息，然后决定交互点上如何限制用户的行为，让用户按照我们希望的方式去操作，再根据这个操作得到想要的信息；交互的意义，就在于建立用户与后端高度抽象化的逻辑之间的沟通桥梁，通过交互来影响用户的行为，将多变的人的行为转化成机器可以识别的行为。<br>四维是指什么，我现在还没有一个具体的经验，我猜想应该跟实际的世界一样，第四维就是时间的维度，也就是对于新手用户的引导，和对于一个使用了半年以上，具有一定熟练度的用户，我还可以给他们提供什么信息，这其实跟游戏的新手引导有点像，在前10甚至前30级的新手保护期，尽量简化操作和难度，逐渐将各种系统介绍给用户，以一个漫长时间来完成用户培训。</p><p><em><strong>场景规约</strong></em><br>交互设计的外延甚至会扩散到商务层面，这并不奇怪， 之所以采用系统，很多时候是商务上希望通过技术手段做一些限制，来限制用户的行为，使用户的场景可控，也就可以相应地进行促销、运营等一些列业务操作；而技术方面上，也不是能解决所有的问题，总有会遇到局限的地方，这个时候好的设计者应该会想到通过商务方式限制用户的行为，使场景可控。</p><p><em><strong>设计的价值体现</strong></em><br>设计、尤其是具象的设计，其实是一件很有权力的事情，一旦实现就在某种程度上锁定了其他人的想象，设计能力越强，出具形象的时候越能打消人们原本心中的对同一事物的无限遐想。好的设计，它能将人们的天马行空网住，逐渐收拢落地，最终达成双方的一致。好的设计，像一种布道、像磁石一样吸引其他人加入,沿着规划的路线行驶。 我们将想象力通过设计与现实接轨，从无形到有形创造生产力。<br>设计的美在于,它要在外部限制与规约下完成。在时间\金钱\人力\物力有限的条件下，戴着镣铐起舞， 追求最优解。同时，它也要对内自洽，整个架构既然是有规划的，那么就要严谨地进行推演，力求每一种可能出现的情况都尽在掌握，只有这样的结构才是美的.<br>所有这一切, 都要求设计者对智力\创造力和效率等一切能力的最优运用,还有什么比这个更有趣呢?</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;岁末年底,按惯例应该写些什么。近两年一直忙碌,少有机会静下心来书写。好在工作中每每有所收获，还是会简要记下来,尤其近几个月,工作节奏很快, 每天大量地遭遇问题、解决问题, 从而激发了很多思考，总觉得不吐不快。 在此，希望将这一年做产品设计的一些心得体会整理记录下来，沉淀以期发酵。&lt;/p&gt;
+&lt;h2 id=&quot;关于设计&quot;&gt;&lt;a href=&quot;#关于设计&quot; class=&quot;headerlink&quot; title=&quot;关于设计&quot;&gt;&lt;/a&gt;关于设计&lt;/h2&gt;&lt;p&gt;####设计的定义&lt;br&gt;这里不仅仅是比较表面的页面视觉上的设计,也包括产品服务的架构,配置,代码逻辑,业务逻辑等等,所有这些东西都可以归为设计。&lt;br&gt;因为所有这些相关环节都不是天然形成的,需要相关人员发挥个人能力去实现,无论他负责的是哪个环节,都要针对某个具体问题,预先制定解决方案再实现, 他以及验收者对最终实现的效果都有所预期。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="商业" scheme="https://lazecate.github.io/tags/%E5%95%86%E4%B8%9A/"/>
+    
+      <category term="思维" scheme="https://lazecate.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+      <category term="设计" scheme="https://lazecate.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="产品" scheme="https://lazecate.github.io/tags/%E4%BA%A7%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TIME IS MAGIC(4)</title>
+    <link href="https://lazecate.github.io/2014/08/03/TIME-IS-MAGIC-4/"/>
+    <id>https://lazecate.github.io/2014/08/03/TIME-IS-MAGIC-4/</id>
+    <published>2014-08-03T01:24:00.000Z</published>
+    <updated>2018-06-17T15:52:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>何必非要寻求明确唯一的答案呢? 时间，不就是人们感慨物事人非时所领悟到的抽象概念、不就是从一件人类劳动产品中感受到的历史性、传承性价值么?<br>它普遍地存在于人对自我的认知发展的思考中。每当感知到、思考到或者想要追问时间时，我的疑惑所指向的未明的部分就是时间。思考得越多，也就会发现时间概念存在的地方也越多，也就认识到更多的“时间”，人们对它的认识必然是不断发展变化的。不妨就秉持一种开放的态度，随时提取自己对时间的领悟，就像寻找失落的拼图一样，关于时间的整幅图景会越来越清晰。</p><a id="more"></a><p>此番思考时间概念的收获之一，就是能够以一种审美的角度看待时间以及生活：</p><p><strong>时间与价值</strong><br>人最宝贵的就是时间，它是人生来最货真价实的财富。每分每秒都跟生命关联，每分每秒都只存在于当下，无法复制、无法重来，你能拥有和付出的最昂贵的代价就是时间。所以当你耐心听完一个人诉苦，花时间为一个人做事情，无论结果如何，成本如何，时间都不可找回来；相对地，不要怀着理所当然的心态去享用别人付出的时间，那是别人双手奉上的生命的一部分。从今以后，投入时间给珍惜的人，怀着感激之心善待每一个为你付出时间的人。</p><p><strong>逝者如斯——物的变迁与时间属性</strong><br>通常我们看到一件事物，也许并没有意识到它的时间属性——即变化、湮灭的宿命，以及当前状态中所凝结的创造的历史。一座建好的房子中凝结着建造者一定工时的劳动，设计者一定时间的创造性思维，以及建筑原材料的生产时间。一块快用完的香皂，其当下的状态反映了使用过的时间和历史。一道美味的佳肴，则蕴含了食材的生长历程、烹饪火候与时间；虽然厨师用了几分钟时间做好一道菜，但完成这项工作却有预设前提，即需要具备一定年份的经验和技能。</p><p>大部分人都处理过存款的问题吧。钱放在银行里，过一段时间银行就会按一定比率付给你利息。这就是所谓的经济杠杆原理，即由于通货膨胀，将来的钱比现在的钱贬值。</p><p>对一个炒股的人来说，最重要的是时机，在恰当的时间买入，再在另一个恰当的时间卖出，任何一点的时间都是唯一性的，因此他绝对不会同一时间点买入和卖出同—支。</p><p>细究起来，这种现象反映的正是货币的时间价值。是什么造成一件东西在不同的时间点价格不同呢？其实是因为人们对未来的预期。人类站在当下的点上，总是会对未来形成预期。为了悬而未决的将来，人们可以选择忍受现在，放弃一些即时的享受，而将积蓄的欲望转化成希望。即使是看起来非常随意的快速消费品，也是人类为了维持自身能够走向未来而进行的消费。</p><p>以此视角，你可以看到与以往截然不同的日常事物，你会怀着更宽容的心去欣赏。面对华服美景美人,在陶醉之余,如果能够常常意识到此情此景的不可重复性，想到它消亡的必然性，你是会对此更加珍视，还是反而超然了呢？</p><p><strong>生命的刻度</strong><br>我们与他人的交往，其实是给自己的生命记下刻度，建立标尺对照。如何确定自己的生命在流转，而不是停在原地不变？你生命中的际遇、过客就是参照物，它们会帮你校正生命的时钟。每个人都在消耗自己的时间，不是花在自己身上，就是花在别人身上。人与人的交互，其实是通过分享时间，来相互备份自己的存在。一个人最宝贵的财富莫过于时间，肯投入时间，肯与别人有瓜葛，是最大的付出。《布鲁克林有棵树》中有一段，约翰死后，孩子和妻子通过酒馆老板了解他生前不为家人所知的一面。那就是已逝生命存在过的片段，是约翰存在的证据。</p><blockquote><p>“鬼也不光是从门缝里进出的那东西啊。”玛丽·罗姆利说，“凯蒂说约尼过去经常和这个酒吧老板聊天。所有这些年的谈话当中，约尼将他自己的点点滴滴留给这个人了。所以凯蒂求自己的男人来帮忙，约尼在这个人身上的点点滴滴就汇聚起来了。是酒吧老板灵魂里的约尼听到了凯蒂的求告，特地来帮忙呢。”</p></blockquote><blockquote><p>弗兰西在脑海里思考着这一席话。“如果是这样的话，”她心想，“那么麦克加里蒂先生在那次长谈当中，将爸爸的一点一滴还给了我们。现在他的心里没有爸爸了。或许正因为这个，他想和我们谈话，我们却无话可说吧。”</p></blockquote><hr><p><strong>[参考书推荐]</strong></p><p>《时间之箭》</p><p>《上帝掷骰子么》</p><p>《时间简史》</p><p> Wikipedia</p><p> Stanford edu wiki</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;何必非要寻求明确唯一的答案呢? 时间，不就是人们感慨物事人非时所领悟到的抽象概念、不就是从一件人类劳动产品中感受到的历史性、传承性价值么?&lt;br&gt;它普遍地存在于人对自我的认知发展的思考中。每当感知到、思考到或者想要追问时间时，我的疑惑所指向的未明的部分就是时间。思考得越多，也就会发现时间概念存在的地方也越多，也就认识到更多的“时间”，人们对它的认识必然是不断发展变化的。不妨就秉持一种开放的态度，随时提取自己对时间的领悟，就像寻找失落的拼图一样，关于时间的整幅图景会越来越清晰。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="思维" scheme="https://lazecate.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+      <category term="TIME" scheme="https://lazecate.github.io/tags/TIME/"/>
+    
+      <category term="哲学" scheme="https://lazecate.github.io/tags/%E5%93%B2%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>week4sense of Integrity</title>
     <link href="https://lazecate.github.io/2014/07/02/week4sense-of-integrity/"/>
     <id>https://lazecate.github.io/2014/07/02/week4sense-of-integrity/</id>
@@ -144,9 +222,9 @@
     </summary>
     
     
-      <category term="creativity" scheme="https://lazecate.github.io/tags/creativity/"/>
-    
       <category term="思维" scheme="https://lazecate.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+      <category term="creativity" scheme="https://lazecate.github.io/tags/creativity/"/>
     
   </entry>
   
@@ -479,88 +557,6 @@ no longer would i share when i feel tired
     
     
       <category term="阅读分享，写作" scheme="https://lazecate.github.io/tags/%E9%98%85%E8%AF%BB%E5%88%86%E4%BA%AB%EF%BC%8C%E5%86%99%E4%BD%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>自建博客与媒体猜想</title>
-    <link href="https://lazecate.github.io/2014/05/23/blogging/"/>
-    <id>https://lazecate.github.io/2014/05/23/blogging/</id>
-    <published>2014-05-23T13:00:15.000Z</published>
-    <updated>2014-05-25T15:00:48.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>######关于写博客的Benchmark<br>   最近又处于走火入魔的状态，每次看到有人转发文章，就会启动<strong>Benchmark模式</strong>：</p><blockquote><ul><li>首先看文章的排版，</li><li>排版好看的，就研究它使用的什么平台，微信公众自带？风铃建站？还是其他微站技术。</li><li>然后就链接到对方的站点分析它的微站的拓扑结构、页面跳转流程等等。</li><li>甚至会研究Button配色、文章排版的格式等细节。 </li><li>有了好的启发，就会回去捣鼓自己的小站，进行改良。</li></ul></blockquote><a id="more"></a><p>######各种博客平台之我的评语：</p><ol><li><p><strong>WordPress</strong>：这是老牌的博客服务平台了，至今仍然正常运转，并且针对移动平台的普及进行了改变。</p><p><img src="../img/wordpress.jpg" alt="wordpress"></p><blockquote><ul><li>优点：功能全面，模板漂亮，能适应趋势及时面向移动平台友好（后台编辑部分）</li><li>缺点： 被墙，虽然可以通过发邮件来发博文，但是模板设置等至少要翻墙一次的，况且国内读者无法访问。</li></ul></blockquote></li><li><strong>新浪博客</strong>：曾经繁荣辉煌过，集结了一大批名博主，有不少有质量的文章。但如今Web端属于半死状态。<blockquote><ul><li>优点：一些以前的文章依然有检索价值，少量忠实用户仍然在使用。文章对移动端适应做的还可以，但仅仅是还可以，loading速度太慢，界面也不够美观。</li><li>缺点： Web端编辑界面相当不友好，字体丑得要死，很难排出好看的排版。</li></ul></blockquote></li><li><strong>网易Lofter</strong>：这个平台 的定位有点偏轻博客，自媒体友好，易用性非常高。如果能将Lofter的内容引入到其网易阅读平台，将会是一个不错的应选平台。<br><img src="../img/blog.png" alt="blog"><blockquote><ul><li>优点：易用性高，免去很多排版的麻烦，编辑博文的界面类似Markdown，专门针对目前的主流设备如移动设备、Mac进行了改良。支持自动将博客生成APP供人下载订阅，体现自媒体友好的倾向。支持主流博客（新浪、豆瓣等等）、图片网站（Flickr）的内容迁移，所以很容易将个人散落在各个社交媒体的内容整合起来。</li><li>缺点： 没有达到简约而只是简单，为了保证效果，它尽可能多地提供可用组件，也就限制了用户的发挥，基本上除了图片和文字内容，大部分博客的变化有限。另外，不支持iOS App的自动生成。不知道是否支持将Lofter的内容引入网易阅读的平台。</li></ul></blockquote></li><li><strong>微信公众平台微站</strong>：结合其主旨定位，“再小的品牌也有自己的平台”，因此微站的配置也是极简的，它适合作为一个宣传的窗口，或者门户，将用户导入到其他页面。这也确实符合它的定位。<blockquote><ul><li>优点：构建在朋友圈上的平台，用户粘稠度以及用户信息的情况比较明朗。搭建简单，适合将外链链接过来，搞一些临时活动、互动等。</li><li>缺点： 页面目前大部分为静态页面，即使使用了各种微站建站的支持，其丰富度也无法与普通手机网站比拟。</li></ul></blockquote></li><li><strong>github静态博客</strong>： <blockquote><ul><li>优点：永久免费server，没有被墙，github上众多的优质开源资源。只要有想法、愿意花时间折腾，可以做出功能很全面的个人站点。</li><li>缺点： 需要操作性太强，除非爱折腾。即使是目前最简单的Hexo建站，也随时有可能全部从头开始配置。目前我只作为备份个人作品的一个站点，避免其他平台突然中止服务。</li></ul></blockquote></li></ol><p>######个人写博客的原则<br>写博客应该像陈寅恪的治学态度，凡是已知的、别人写过的，我不写；我写出的东西必须是自己一份努力思考加工、亲身经历实现，才写出与人分享，否则就是违背自己的立场——对于随意转发和缺乏深思批判的写作的反对立场。</p><p>######对于自媒体的一些猜想：</p><p><strong>基于朋友圈、close社交圈的自媒体</strong><br>中国有13亿人，这将是巨大的媒体消费缺口。仅靠主流媒体的输出，即使再加上微博微信移动互联网等平台，也始终避免不了信息荒的问题。现在看起来似乎信息传递非常便利，又是信息爆炸的时代，但其实对于个体来说，想要获得有价值的信息反而更难了。</p><p>很快人们不会再满足于阅读普遍转发而不知真伪的内容，很快更多的人会希望更轻松地获取想要阅读的信息。这样一来，基于朋友圈、紧密小社交圈的自媒体也许会变得流行。这些小的自媒体并不是要实现争霸舆论界的野心，它们的宗旨只是服务于一个小圈子，方便圈内人的信息分享与交流。<br>这种基于朋友圈的好处是：</p><ul><li><p><strong>兴趣点的共通性</strong>：朋友圈中的人必定有一些共性，这种方式得到的信息比随处看来的内容有更大的可能会吸引你。</p></li><li><p><strong>构建于真实人际关系的信用约束</strong>：小圈子中的人互动更频繁，谎言更容易被拆穿，这就约束信息的发布者自律。</p><p><strong>自媒体的“自选超市”</strong>：<br>由网易、新浪、腾讯这样的大鳄提供平台，而自媒体在其中生产千千万万的独家内容，信息消费者根据自己的爱好在其中选择自己喜欢的订阅。目前网易阅读已经这么做了，只是还可以继续深化广度和力度。</p></li></ul><hr><p>欢迎关注微信订阅号 QuickpFlip 来获取更多内容。<br><img src="http://imglf1.ph.126.net/d9v8HML5i2Qkn78J1C5isQ==/6608731186980256486.jpg" alt="qrcode"></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;######关于写博客的Benchmark&lt;br&gt;   最近又处于走火入魔的状态，每次看到有人转发文章，就会启动&lt;strong&gt;Benchmark模式&lt;/strong&gt;：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;首先看文章的排版，&lt;/li&gt;
-&lt;li&gt;排版好看的，就研究它使用的什么平台，微信公众自带？风铃建站？还是其他微站技术。&lt;/li&gt;
-&lt;li&gt;然后就链接到对方的站点分析它的微站的拓扑结构、页面跳转流程等等。&lt;/li&gt;
-&lt;li&gt;甚至会研究Button配色、文章排版的格式等细节。 &lt;/li&gt;
-&lt;li&gt;有了好的启发，就会回去捣鼓自己的小站，进行改良。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="blog" scheme="https://lazecate.github.io/tags/blog/"/>
-    
-      <category term="自媒体" scheme="https://lazecate.github.io/tags/%E8%87%AA%E5%AA%92%E4%BD%93/"/>
-    
-      <category term="博客平台" scheme="https://lazecate.github.io/tags/%E5%8D%9A%E5%AE%A2%E5%B9%B3%E5%8F%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>流行歌曲与诗歌</title>
-    <link href="https://lazecate.github.io/2014/05/22/Chasing%20the%20Sun/"/>
-    <id>https://lazecate.github.io/2014/05/22/Chasing the Sun/</id>
-    <published>2014-05-22T14:56:15.000Z</published>
-    <updated>2014-05-25T15:01:03.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="../img/chasingthesun.jpg" alt="chasingsun"></p><p>SaraBareilles的歌一上来就直觉地喜欢上了，直到有一天仔细看了下歌词，突然想明白为什么喜欢上她的歌。</p><p>你会发现，她的歌词都带有一种<strong>诗性美</strong>。这里，歌曲方面，我们暂且不论其音乐在节奏旋律上产生的感染力，尽管它是一个很重要的部分。这里，我只是想就它的歌词与诗歌的某些共性上来探讨一下。</p><p>简单说来，我认为歌词和诗歌的一个最大的共性就是，它们<strong>每个句式表达的意思都是片段而离散的</strong>。句与句之间不必遵循线性的叙述关系。类似于电影的蒙太奇剪辑，诗歌从一个句子描述的意境跳跃到另一个，前一句带来的感染力未及消退，新的意象又扑面而来。好的诗歌或者歌词，充分运用每一个语句来植入一种意象，欣赏的大脑比他们自身的意识更早地接受并加工了这种意象。诗歌语句<strong>对时序逻辑的破坏</strong>，恰恰阻止左脑进行语义的解读，而使右脑接掌分析处理的工作。右脑将会很好地把握语句要传达的情绪与气氛，于是一种一拍即合的欣赏活动就诞生了。最后，欣赏者的意识接收到的是自己大脑进行初步加工后，合成的类似“电影成片”的感受。<br><a id="more"></a></p><p>尽管我们接触到的诗歌大多是没有配乐的，但我想最早的诗歌应该跟现在的流行歌曲一样是唱出来的（不论有没有伴奏）。这个唱的行为主要是为了帮助欣赏者掌握欣赏的节奏，好的诗歌语句的意境，必定经过精心设计，如同脚本一样。每条语句就像依次投入湖水中的石子，它们有节奏地入水，激起的涟漪形成组合效果。因此，节奏至关重要，在上一个涟漪扩展到刚好的规模，下一个石子恰好入水，两道涟漪形成干涉，达到最佳的震撼效果。</p><p>本来想翻译下歌词，但我转念一想，翻译就是我欣赏这首歌的结果，它必然带着极強的主观色彩。与其逐句翻译，我不如就描述下当我听它时，脑海中形成什么印象，也就相当于翻译了，只不过是一种意译。     </p><p>歌词初始用寥寥几句描绘出了叙事的氛围、场景——曼哈顿皇后区中心的墓地。这里绝对的静寂，但徜徉其间，浏览300万死者的墓碑与生卒年，你仿佛与这些曾经活过的死者们对话。意识到这里的死者都曾经鲜活过，你才会感觉到自己的心跳是多么的美妙，体验到仿佛300万心脏一起所产生的交响乐般和谐的律动。</p><p>脚下的地面是死者的穹顶，生与死的距离又岂是这薄薄的地表土，歌者尽力用语言和音乐表达亲临于此所产生的震撼，想要通过歌唱传达出这距离的真正含义。终有一天，我们都会化为一抔黄土，如果以时间长度来衡量状态，那么死后的长久静寂也许才是人类真正的状态，约算下来，相当于我们已死，</p><blockquote><p>“All we can do is try  And live like we’re still alive”。</p></blockquote><p>如果不曾努力尝试，活出勃勃生机，整个曼哈顿又何尝不是一座坟墓。这种短暂的alive状态不应被荒废，</p><blockquote><p>“is not meant to be wasted”, </p></blockquote><p>人人都应当永远追逐阳光</p><blockquote><p>“always chasing the sun”，</p></blockquote><p>而非陷入不动的静寂。    </p><hr><p>###Chasing the Sun - Sara Bareilles  </p><hr><p>It’s a really old city</p><p>这座古老的城市</p><p>Stuck between the dead and the living</p><p>夹在生者与死者之间</p><p>So I thought to myself, sitting on a graveyard shelf</p><p>我坐在一座坟墓上，独自静思</p><p>As the echo of heartbeats, from the ground below my feet</p><p>内心的回响，从我脚下的地面传来</p><p>Filled a cemetery in the center of Queens</p><p>它们填满皇后区的中心</p><p>I started running the maze of</p><p>我开始奔跑于名字与日期的迷宮中</p><p>The names and the dates, some older than others</p><p>有的很古老，有的则是新近的墓碑</p><p>The skyscrapers, little tombstone brothers</p><p>这一座座墓碑以曼哈顿林林总总的摩天楼为背景</p><p>With Manhattan behind her, three million stunning reminders</p><p>300万逝者的墓碑</p><p>Built a cemetery in the center of Queens</p><p>组成了皇后区的墓地</p><p>You said, remember that life is</p><p>Not meant to be wasted</p><p>你说，生命不应被虚耗</p><p>We can always be chasing the sun!</p><p>我们总能追逐阳光</p><p>So fill up your lungs and just run</p><p>But always be chasing the sun!</p><p>深吸一口气就奔跑吧</p><p>永远向着阳光</p><p>So how do you do it,</p><p>该怎么样</p><p>With just words and just music, capture the feeling</p><p>只用言语和音乐捕捉此刻的情感</p><p>That my earth is somebody’s ceiling, can I deliver in sound</p><p>我脚下的地面是另一些曾经活过的人的穹顶</p><p>The weight of the ground</p><p>Of a cemetery in the center of Queens</p><p>我能否用声音表达这墓地的厚重的含义</p><p>There’s a history through her</p><p>它承载着历史</p><p>Sent to us as a gift from the future, to show us the proof</p><p>向我们指示未来</p><p>More than that, it’s to dare us to move</p><p>To open our eyes and to learn from the sky</p><p>它还令我们敢于采取行动</p><p>在这个过程中，开阔我们的视野、获得知识</p><p>From a cemetery in the center of Queens</p><p>从这皇后区的墓地</p><p>You said, remember that life is</p><p>Not meant to be wasted</p><p>你说，生命不应被虚耗</p><p>We can always be chasing the sun!</p><p>So fill up your lungs and just run</p><p>But always be chasing the sun!</p><p>我们总能追逐阳光</p><p>所以深吸一口气就跑吧</p><p>永远向着太阳</p><p>All we can do is try</p><p>And live like we’re still alive</p><p>我们只有尽力去试</p><p>才能不白活一场</p><p>It’s a really old city</p><p>Stuck between the dead and the living</p><p>So I thought to myself, sitting on a graveyard shelf</p><p>这座古老的城市</p><p>夹在生者与死者之间</p><p>我坐在一座坟墓上，独自静思</p><p>And the gift of my heartbeat sounds like a symphony</p><p>Played by a cemetery in the center of Queens</p><p>我心跳的声音像交响乐一般回荡在这皇后区的坟墓</p><p>You said, remember that life is</p><p>Not meant to be wasted</p><p>We can always be chasing the sun!</p><p>So fill up your lungs and just run</p><p>But always be chasing the sun!</p><p>你说，生命不应被虚耗</p><p>我们总能追逐阳光</p><p>所以深吸一口气就跑吧</p><p>永远向着太阳</p><p>All we can do is try</p><p>And live like we’re still alive</p><p>All we can do is try</p><p>And live like we’re still alive</p><p>我们只有尽力去试</p><p>才能不白活一场</p><p>我们只有尽力去试</p><p>才能不白活一场</p><hr><p>您还可以通过关注微信订阅号：<strong>QuickFlip</strong>，获得更多精彩内容。</p><p><img src="http://imglf1.ph.126.net/d9v8HML5i2Qkn78J1C5isQ==/6608731186980256486.jpg" alt="qrcode"></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;../img/chasingthesun.jpg&quot; alt=&quot;chasingsun&quot;&gt;&lt;/p&gt;
-&lt;p&gt;SaraBareilles的歌一上来就直觉地喜欢上了，直到有一天仔细看了下歌词，突然想明白为什么喜欢上她的歌。&lt;/p&gt;
-&lt;p&gt;你会发现，她的歌词都带有一种&lt;strong&gt;诗性美&lt;/strong&gt;。这里，歌曲方面，我们暂且不论其音乐在节奏旋律上产生的感染力，尽管它是一个很重要的部分。这里，我只是想就它的歌词与诗歌的某些共性上来探讨一下。&lt;/p&gt;
-&lt;p&gt;简单说来，我认为歌词和诗歌的一个最大的共性就是，它们&lt;strong&gt;每个句式表达的意思都是片段而离散的&lt;/strong&gt;。句与句之间不必遵循线性的叙述关系。类似于电影的蒙太奇剪辑，诗歌从一个句子描述的意境跳跃到另一个，前一句带来的感染力未及消退，新的意象又扑面而来。好的诗歌或者歌词，充分运用每一个语句来植入一种意象，欣赏的大脑比他们自身的意识更早地接受并加工了这种意象。诗歌语句&lt;strong&gt;对时序逻辑的破坏&lt;/strong&gt;，恰恰阻止左脑进行语义的解读，而使右脑接掌分析处理的工作。右脑将会很好地把握语句要传达的情绪与气氛，于是一种一拍即合的欣赏活动就诞生了。最后，欣赏者的意识接收到的是自己大脑进行初步加工后，合成的类似“电影成片”的感受。&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="音乐" scheme="https://lazecate.github.io/tags/%E9%9F%B3%E4%B9%90/"/>
-    
-      <category term="诗歌" scheme="https://lazecate.github.io/tags/%E8%AF%97%E6%AD%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>个人HEXO博客使用手册</title>
-    <link href="https://lazecate.github.io/2014/05/20/HexoManual/"/>
-    <id>https://lazecate.github.io/2014/05/20/HexoManual/</id>
-    <published>2014-05-20T15:19:15.000Z</published>
-    <updated>2014-06-01T22:34:13.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Hexo 建站需要手动操作的地方很多，并且有时候需要从头再来，所以很有必要记录下一个程式化的流程。<br>这样可以节省再配置的时间，也可以避免对同一问题反复搜索。<br>以后也会根据“技能 get”情况，陆续更新本帖。<br><a id="more"></a></p><ol><li><p><strong>写博客的流程：</strong></p><blockquote><ul><li><code>cd hexo</code></li><li><code>hexo new &quot;postName&quot;</code></li><li>编辑 source_post\目录下的postName.md （文件头格式）</li><li><code>hexo generate</code> #将内容更新到hexo\public目录下</li><li><code>hexo server</code> 搭建本地服务器</li><li>在localhost:4000 查看效果，进行反复调试。<code>ctrl+c</code>退出。</li><li><code>hexo deploy</code> 发布到github上，完成更新。</li></ul></blockquote></li><li><p><strong>高阶设定：</strong></p><blockquote><ul><li>把<code>&lt;!--more--&gt;</code>放在想作为摘要的一段文字的下方。则这段文字自动成为文章摘要。下方会显示“阅读全文”</li><li><code>hexo new page &quot;about&quot;</code>自定义About页面。然后可以在_config.yml中配置about</li><li>也可以直接创建source\about\index.html，然后配置</li><li>图片显示：在 Source 目录下建立 img 的文件夹，将图片中要使用的图片放入这个文件夹，之后在 markdown 中的语法是： <code>![hello](image/hello.jpg)</code>,<br>比如,<code>![wordpress](../img/wordpress.jpg)</code></li><li>创建草稿在 source/_drafts/new-draft.md, 语句是：<code>hexo new draft &quot;New Draft&quot;</code></li><li>在博客中插入 Vimeo，youtube视频，语句是：<code><div class="video-container"><iframe src="//player.vimeo.com/video/video_id" frameborder="0" allowfullscreen></iframe></div></code></li></ul></blockquote></li></ol><ol start="3"><li><p><strong>修改Theme</strong></p><blockquote><ul><li>主题安装：<code>git clone &lt;source url&gt;</code></li><li>主题配置：hexo_config.yml中<ul><li><em>theme</em>:主题名， 主题名要与上一步拷贝的文件夹名一致</li><li><em>menu</em>：配置页头显示那些菜单，冒号后面对应的是各个文件夹<ul><li>归档：/archives</li><li>阅读：/reading</li><li>关于：/about</li></ul></li><li><em>widgets</em>: 配置页面一侧显示哪些栏目<ul><li>category</li><li>tag</li><li>tagcloud</li><li>recent posts</li><li>blogroll</li></ul></li><li><em>blogroll</em>: 友情链接<ul><li><code>- bruce sha&#39;s duapp wordpress: http://ibruce.duapp.com</code> </li></ul></li></ul></li><li>主题更新：<code>cd themes/主题名</code> ， 然后输入<code>git pull</code>。</li></ul></blockquote></li><li><p><strong>其他配置</strong></p><blockquote><ul><li>hexo更新： <code>npm update -g hexo</code> 在hexo目录下。</li><li>Tips: 无论是插件还是主题在安装后都需要在根目录下_config.yml中修改plugins和theme的值以启用他们。</li><li>未完待续…</li></ul></blockquote></li></ol><p>   ####Bug</p><ol><li>如果以中文为文章名，则 title 后要用双引号，否则文件头的配置信息就识别不出来。</li><li><code>&lt;!--more--&gt;</code>注意more 是全小写。</li></ol><hr><p>  欢迎关注微信号 QuickFlip，获取更多精彩内容。</p><p>   <img src="http://imglf1.ph.126.net/d9v8HML5i2Qkn78J1C5isQ==/6608731186980256486.jpg" alt="qrcode"></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Hexo 建站需要手动操作的地方很多，并且有时候需要从头再来，所以很有必要记录下一个程式化的流程。&lt;br&gt;这样可以节省再配置的时间，也可以避免对同一问题反复搜索。&lt;br&gt;以后也会根据“技能 get”情况，陆续更新本帖。&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="blog" scheme="https://lazecate.github.io/tags/blog/"/>
-    
-      <category term="hexo" scheme="https://lazecate.github.io/tags/hexo/"/>
-    
-      <category term="建站" scheme="https://lazecate.github.io/tags/%E5%BB%BA%E7%AB%99/"/>
     
   </entry>
   
