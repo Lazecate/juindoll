@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lifestream</title>
+  <title>Lifestream - 得意忘言</title>
   <icon>https://www.gravatar.com/avatar/d68fcc15388e786287ff3e0eed71e8f4</icon>
   <subtitle>A perspective blog</subtitle>
   <link href="/juindoll/atom.xml" rel="self"/>
   
   <link href="https://lazecate.github.io/"/>
-  <updated>2018-06-17T10:27:30.000Z</updated>
+  <updated>2018-06-17T11:47:36.000Z</updated>
   <id>https://lazecate.github.io/</id>
   
   <author>
@@ -17,20 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello world</title>
+    <title>新一轮Hexo折腾</title>
     <link href="https://lazecate.github.io/2018/06/17/hello-world/"/>
     <id>https://lazecate.github.io/2018/06/17/hello-world/</id>
     <published>2018-06-17T10:25:22.000Z</published>
-    <updated>2018-06-17T10:27:30.000Z</updated>
+    <updated>2018-06-17T11:47:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="HEXO-ROUND-2"><a href="#HEXO-ROUND-2" class="headerlink" title="HEXO ROUND 2"></a>HEXO ROUND 2</h2><p>好像始终热衷于折腾自建BLOG，明明并没有写过多少篇，苦于博客平台各领风骚一阵子，似乎就没有停止过迁移，从<code>windows space</code>到新浪博客，再到<code>LOFTER</code>，微信公众号等等，每次迁移总要丢失一些东西。所以，自从知道<code>GitHub Pages</code>之后就一直琢磨着把散落在各处的只言片语弄到一起存着，反正按我的水平来说，要写完免费空间还要很久。</p><p>上次折腾HEXO大概2，3年前了，之前还认真的记录了操作步骤手册，这次重新拾掇起来，发现版本先进很多，尤其是结合Git Repository使用，方便直观了很多。模板依然用的是别的提供的，不过自从了解了当前版本的原理后，感觉终于可以做个像样点的个人PORTAL了，非码农容易么我。</p><hr>   <font size="2" color="PEACH"> <del>~ 扫码关注我的公众号吧，求打赏 ~</del> </font><hr>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;HEXO-ROUND-2&quot;&gt;&lt;a href=&quot;#HEXO-ROUND-2&quot; class=&quot;headerlink&quot; title=&quot;HEXO ROUND 2&quot;&gt;&lt;/a&gt;HEXO ROUND 2&lt;/h2&gt;&lt;p&gt;好像始终热衷于折腾自建BLOG，明明并没有写过多少篇，苦于博
+      
     
     </summary>
     
     
-      <category term="test" scheme="https://lazecate.github.io/tags/test/"/>
+      <category term="HEXO" scheme="https://lazecate.github.io/tags/HEXO/"/>
     
-      <category term="default" scheme="https://lazecate.github.io/tags/default/"/>
+      <category term="DIY BLOG" scheme="https://lazecate.github.io/tags/DIY-BLOG/"/>
     
   </entry>
   
