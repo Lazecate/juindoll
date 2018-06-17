@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Lifestream</title>
+  <icon>https://www.gravatar.com/avatar/d68fcc15388e786287ff3e0eed71e8f4</icon>
+  <subtitle>A perspective blog</subtitle>
+  <link href="/juindoll/atom.xml" rel="self"/>
   
-  
-  <link href="/atom.xml" rel="self"/>
-  
-  <link href="http://yoursite.com/"/>
+  <link href="https://lazecate.github.io/"/>
   <updated>2018-06-17T10:27:30.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://lazecate.github.io/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Lazecate</name>
+    <email>lazecate@gmail.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>hello world</title>
-    <link href="http://yoursite.com/2018/06/17/hello-world/"/>
-    <id>http://yoursite.com/2018/06/17/hello-world/</id>
+    <link href="https://lazecate.github.io/2018/06/17/hello-world/"/>
+    <id>https://lazecate.github.io/2018/06/17/hello-world/</id>
     <published>2018-06-17T10:25:22.000Z</published>
     <updated>2018-06-17T10:27:30.000Z</updated>
     
@@ -28,9 +28,9 @@
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="https://lazecate.github.io/tags/test/"/>
     
-      <category term="default" scheme="http://yoursite.com/tags/default/"/>
+      <category term="default" scheme="https://lazecate.github.io/tags/default/"/>
     
   </entry>
   
