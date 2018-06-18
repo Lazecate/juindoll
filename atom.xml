@@ -6,7 +6,7 @@
   <link href="/juindoll/atom.xml" rel="self"/>
   
   <link href="https://lazecate.github.io/"/>
-  <updated>2018-06-17T13:01:20.000Z</updated>
+  <updated>2018-06-18T04:33:14.000Z</updated>
   <id>https://lazecate.github.io/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Big Migration of Blog</title>
+    <link href="https://lazecate.github.io/2018/06/18/The-Big-Migration-of-Blog/"/>
+    <id>https://lazecate.github.io/2018/06/18/The-Big-Migration-of-Blog/</id>
+    <published>2018-06-18T01:49:37.000Z</published>
+    <updated>2018-06-18T04:33:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天终于把<code>GitHub</code>的<code>hexo</code>博客服务整好了,而且有了<code>Mobirise</code>的自建站服务，终于可以像模像样给自己搞个主页了。但这么一来可能需要定期做页面内容的运营维护，决定哪些PO出来。</p>   <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">我的主页：</span><br><span class="line"></span><br><span class="line">[https://lazecate.github.io/whale/](https://lazecate.github.io/whale/)     </span><br><span class="line">   ``` </span><br><span class="line"> </span><br><span class="line">对于折腾自有空间这件事，我似乎永远有热情，而且最近几年好像每到年中总会折腾一次，真是奇怪的现象。</span><br></pre></td></tr></table></figure><pre><code>理想的周末应该有三天           一天用来赖床        一天用来打扫收拾断舍离最后一天用来发现新鲜玩乐</code></pre><p>  <code>`</code></p><a id="more"></a><p>这次决定将自己散落在各种空间博客的文章汇总到一处。从昨天开始，试了下各种博客迁移服务，正好简单评价一下：</p><p><code>WordPress</code>绝对是<code>NO1</code>，支持一键导出XML，而且格式图片都不丢，标签分类无缝衔接，当然可能是跟hexo衔接紧密。</p><p>其他所有空间可能由于运营思路的问题，大概都将用户产生的数据作为了自己拥有的东西，都是导出不友好。最后，迁移这些数据都是靠RSS来解决，还好hexo支持RSS迁移。说到能方便的生成RSS链接，支持最好的是lofter，简书，上传的图片是放在原始发布的站点的，比如LOFTER，比如新浪博客。如果这些图床关闭外链了，可能图片就显示不了了。</p><p>体验最差的就是新浪了，老的新浪博客不说，大概因为是WEB2.0以前的产物。新浪微博也是各种防，可能是因为分页之类的，即使用<a href="https://docs.rsshub.app/" target="_blank" rel="noopener">RSSHUB</a>也只拽了第一页。看来剩下的数据，都要手工迁移了，以后各种公共博客服务拜拜了您呐。</p><hr><p>由此产生的反思：</p><hr><pre><code>1.虽然技术不断发展，但整理信息的思路还是那一套，标签、分类等等，也就是图书馆、档案管理学那些思路。2.产生这个现象，是因为虽然技术发展和迭代可以很快，但如果不是理论逻辑上的根本创新，那么只是表层表现的变迁。3.技术与技术的代际更迭之间存在兼容性，原因是没有人是凭空创新，总是在原有基础上发现亟待满足的需求，再改进。4.用标签和分类这种抽样抽象真的能代替信息本身么？这样的抽象的结果是不是还是无法突破人脑在信息处理的极限。也就是说，假设一个人处理原子信息的上限是500条——代表他阅读后在头脑中产生大概的印象，并能处理组合出一个相互关系，那么即使大数据、云计算再牛，也只是两条分支歧途：   · 其一，组合出关键信息关系的工作由AI模拟人来做，这条分支的走向想想就可怕   · 其二，大量碎片冗余无用信息，虽然整理出来了，但超出人的处理能力，这个貌似就是当下的情况了</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;昨天终于把&lt;code&gt;GitHub&lt;/code&gt;的&lt;code&gt;hexo&lt;/code&gt;博客服务整好了,而且有了&lt;code&gt;Mobirise&lt;/code&gt;的自建站服务，终于可以像模像样给自己搞个主页了。但这么一来可能需要定期做页面内容的运营维护，决定哪些PO出来。&lt;/p&gt;
+   &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;我的主页：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[https://lazecate.github.io/whale/](https://lazecate.github.io/whale/)     &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   ``` &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;对于折腾自有空间这件事，我似乎永远有热情，而且最近几年好像每到年中总会折腾一次，真是奇怪的现象。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;pre&gt;&lt;code&gt;理想的周末应该有三天           
+一天用来赖床        
+一天用来打扫收拾断舍离
+最后一天用来发现新鲜玩乐
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;  &lt;code&gt;`&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随笔杂谈" scheme="https://lazecate.github.io/categories/%E9%9A%8F%E7%AC%94%E6%9D%82%E8%B0%88/"/>
+    
+    
+      <category term="思维" scheme="https://lazecate.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+      <category term="技术" scheme="https://lazecate.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="博客" scheme="https://lazecate.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="RSS" scheme="https://lazecate.github.io/tags/RSS/"/>
+    
+      <category term="知识管理" scheme="https://lazecate.github.io/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>新一轮Hexo折腾</title>
@@ -46,7 +82,7 @@
     <link href="https://lazecate.github.io/2018/05/03/%E5%85%A8%E7%90%83%E5%A5%87%E9%81%87%E6%95%85%E4%BA%8B%E8%AE%A1%E5%88%92-%E5%8E%BB%E4%B8%9C%E4%BA%AC%E5%9C%A8%E6%A0%B9%E6%B4%A5%E7%BE%8E%E6%9C%AF%E9%A6%86Nezu/"/>
     <id>https://lazecate.github.io/2018/05/03/全球奇遇故事计划-去东京在根津美术馆Nezu/</id>
     <published>2018-05-03T00:00:00.000Z</published>
-    <updated>2018-06-17T17:08:29.000Z</updated>
+    <updated>2018-06-18T01:59:45.000Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://m.weibo.cn/p/searchall?containerid=231522type%3D1%26q%3D%23%E5%85%A8%E7%90%83%E5%A5%87%E9%81%87%E6%95%85%E4%BA%8B%E8%AE%A1%E5%88%92%23%26t%3D10&amp;isnewpage=1&amp;luicode=10000011&amp;lfid=1076031644466022" target="_blank" rel="noopener">#全球奇遇故事计划#</a><br>去东京在根津美术馆Nezu Café听听隈研吾的设计故事；<br>去东京与东野圭吾一起遍寻东京书店，即兴构思一个与书店相关的推理故事<a href="/n/奇遇">@奇遇</a> ​​​</p><p><img src="https://wx3.sinaimg.cn/large/62048f66ly1fqxr6gbdgdj20hs0dcdhl.jpg" alt=""></p><p><img src="https://wx3.sinaimg.cn/large/62048f66ly1fqxr6fsqkoj20hs0m7n4l.jpg" alt=""></p><p><img src="https://wx3.sinaimg.cn/large/62048f66ly1fqxrxzqs7hj20go0ci76t.jpg" alt=""></p><p><img src="https://wx1.sinaimg.cn/large/62048f66ly1fqxry01esij20go0bj75z.jpg" alt=""></p><p><img src="https://wx1.sinaimg.cn/large/62048f66ly1fqxrxzg4ayj20go0b476u.jpg" alt=""></p><p><img src="https://wx2.sinaimg.cn/large/62048f66ly1fqxry0mdflj20go0p043t.jpg" alt=""></p><p><img src="https://wx1.sinaimg.cn/large/62048f66ly1fqxry138gaj20go0ciwga.jpg" alt=""></p>]]></content>
     
@@ -59,6 +95,12 @@
     
     </summary>
     
+    
+      <category term="旅行" scheme="https://lazecate.github.io/tags/%E6%97%85%E8%A1%8C/"/>
+    
+      <category term="东京" scheme="https://lazecate.github.io/tags/%E4%B8%9C%E4%BA%AC/"/>
+    
+      <category term="故事" scheme="https://lazecate.github.io/tags/%E6%95%85%E4%BA%8B/"/>
     
   </entry>
   
@@ -97,27 +139,6 @@
       
       
         &lt;p&gt;&lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_1221c2de&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;http://imglf3.nosdn.127.net/img/ak0vS0
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>旧金山笛洋美术馆 （共10张图）（阅读全文: [...</title>
-    <link href="https://lazecate.github.io/2018/01/28/%E6%97%A7%E9%87%91%E5%B1%B1%E7%AC%9B%E6%B4%8B%E7%BE%8E%E6%9C%AF%E9%A6%86-%EF%BC%88%E5%85%B110%E5%BC%A0%E5%9B%BE%EF%BC%89%EF%BC%88%E9%98%85%E8%AF%BB%E5%85%A8%E6%96%87/"/>
-    <id>https://lazecate.github.io/2018/01/28/旧金山笛洋美术馆-（共10张图）（阅读全文/</id>
-    <published>2018-01-28T00:00:00.000Z</published>
-    <updated>2018-06-17T17:08:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>旧金山笛洋美术馆 （共10张图）（阅读全文: <a href="http://lazecate.lofter.com/post/3b2d0b_1221c2de" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a> 下载LOFTER客户端: <a href="http://www.lofter.com/app" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a>）<br> 来源于<a href="http://www.lofter.com" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a> ​​​</p><p><img src="https://wx2.sinaimg.cn/large/62048f66ly1fnwjobcys4j20hs0a0dkk.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;旧金山笛洋美术馆 （共10张图）（阅读全文: &lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_1221c2de&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span class=&quot;url-icon&quot;&gt;&lt;i
       
     
     </summary>
@@ -222,11 +243,11 @@
   </entry>
   
   <entry>
-    <title>图片</title>
+    <title>素可泰的热带雨林</title>
     <link href="https://lazecate.github.io/2017/10/06/%E5%9B%BE%E7%89%87/"/>
     <id>https://lazecate.github.io/2017/10/06/图片/</id>
     <published>2017-10-06T09:30:17.000Z</published>
-    <updated>2018-06-17T16:23:32.000Z</updated>
+    <updated>2018-06-18T04:27:36.000Z</updated>
     
     <content type="html"><![CDATA[<p><a href="http://lazecate.lofter.com/post/3b2d0b_11502b93" target="_blank" rel="noopener"><img src="http://imglf4.nosdn.127.net/img/ak0vS0ZMWU1CaU5nZ1ZxR3E4ckdQMlNVZFVKL0FibFBQaVNIeTl5ZG9DVnFhVUE2dnk4WkJRPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br></p><p><a href="http://lazecate.lofter.com" target="_blank" rel="noopener">LOFTER：浮生絮语&middot;得意忘言</a>&nbsp;&nbsp;&nbsp;<a href="http://lazecate.lofter.com/post/3b2d0b_11502b93" target="_blank" rel="noopener">http://lazecate.lofter.com/post/3b2d0b_11502b93</a></p>]]></content>
     
@@ -240,26 +261,13 @@
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>地球上被遗弃的空灵之境 [图片]网页链接 ​​​</title>
-    <link href="https://lazecate.github.io/2017/08/31/%E5%9C%B0%E7%90%83%E4%B8%8A%E8%A2%AB%E9%81%97%E5%BC%83%E7%9A%84%E7%A9%BA%E7%81%B5%E4%B9%8B%E5%A2%83-%E5%9B%BE%E7%89%87-%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5-%E2%80%8B%E2%80%8B%E2%80%8B/"/>
-    <id>https://lazecate.github.io/2017/08/31/地球上被遗弃的空灵之境-图片-网页链接-​​​/</id>
-    <published>2017-08-31T00:00:00.000Z</published>
-    <updated>2018-06-17T17:08:29.000Z</updated>
+      <category term="旅行" scheme="https://lazecate.github.io/tags/%E6%97%85%E8%A1%8C/"/>
     
-    <content type="html"><![CDATA[<p>地球上被遗弃的空灵之境 <a href="https://op.inews.qq.com/m/VID2017081201529500?refer=100000058&amp;chl_code=newpic&amp;h=1" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a> ​​​</p><p><img src="https://wx3.sinaimg.cn/large/62048f66gy1fj2kpym8mnj2032032dfo.jpg" alt=""></p>]]></content>
+      <category term="Muang Sukhothai" scheme="https://lazecate.github.io/tags/Muang-Sukhothai/"/>
     
-    <summary type="html">
+      <category term="素可泰" scheme="https://lazecate.github.io/tags/%E7%B4%A0%E5%8F%AF%E6%B3%B0/"/>
     
-      
-      
-        &lt;p&gt;地球上被遗弃的空灵之境 &lt;a href=&quot;https://op.inews.qq.com/m/VID2017081201529500?refer=100000058&amp;amp;chl_code=newpic&amp;amp;h=1&quot; target=&quot;_blank&quot; rel=&quot;noop
-      
-    
-    </summary>
-    
+      <category term="泰国" scheme="https://lazecate.github.io/tags/%E6%B3%B0%E5%9B%BD/"/>
     
   </entry>
   
@@ -327,69 +335,6 @@
   </entry>
   
   <entry>
-    <title>故宫午门展厅《尚之以琼华》 by 潘太康50 （...</title>
-    <link href="https://lazecate.github.io/2017/06/03/%E6%95%85%E5%AE%AB%E5%8D%88%E9%97%A8%E5%B1%95%E5%8E%85%E3%80%8A%E5%B0%9A%E4%B9%8B%E4%BB%A5%E7%90%BC%E5%8D%8E%E3%80%8B-by-%E6%BD%98%E5%A4%AA%E5%BA%B750-%EF%BC%88/"/>
-    <id>https://lazecate.github.io/2017/06/03/故宫午门展厅《尚之以琼华》-by-潘太康50-（/</id>
-    <published>2017-06-03T00:00:00.000Z</published>
-    <updated>2018-06-17T17:08:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>故宫午门展厅《尚之以琼华》 by 潘太康50 （共10张图）（阅读全文: <a href="http://lazecate.lofter.com/post/3b2d0b_ffa2351" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a> 下载LOFTER客户端: <a href="http://www.lofter.com/app/QRCodedownload?act=qbposttoweibo_20140726_01" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a>） ​​​</p><p><img src="https://wx4.sinaimg.cn/large/62048f66ly1fg8d7w1at3j20hs0oxag2.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;故宫午门展厅《尚之以琼华》 by 潘太康50 （共10张图）（阅读全文: &lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_ffa2351&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span class=
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>首博《美好中华》展，不错，by 潘太康50 （共...</title>
-    <link href="https://lazecate.github.io/2017/06/03/%E9%A6%96%E5%8D%9A%E3%80%8A%E7%BE%8E%E5%A5%BD%E4%B8%AD%E5%8D%8E%E3%80%8B%E5%B1%95%EF%BC%8C%E4%B8%8D%E9%94%99%EF%BC%8Cby-%E6%BD%98%E5%A4%AA%E5%BA%B750-%EF%BC%88%E5%85%B1/"/>
-    <id>https://lazecate.github.io/2017/06/03/首博《美好中华》展，不错，by-潘太康50-（共/</id>
-    <published>2017-06-03T00:00:00.000Z</published>
-    <updated>2018-06-17T17:08:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>首博《美好中华》展，不错，by 潘太康50 （共9张图）（阅读全文: <a href="http://lazecate.lofter.com/post/3b2d0b_ffa2333" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a> 下载LOFTER客户端: <a href="http://www.lofter.com/app/QRCodedownload?act=qbposttoweibo_20140726_01" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a>） ​​​</p><p><img src="https://wx1.sinaimg.cn/large/62048f66ly1fg8cy2bc7dj20hs0bu76q.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;首博《美好中华》展，不错，by 潘太康50 （共9张图）（阅读全文: &lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_ffa2333&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span class=&quot;u
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>阿富汗浴火重光，果然是中西交汇之地，历经战火，仍...</title>
-    <link href="https://lazecate.github.io/2017/06/03/%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B5%B4%E7%81%AB%E9%87%8D%E5%85%89%EF%BC%8C%E6%9E%9C%E7%84%B6%E6%98%AF%E4%B8%AD%E8%A5%BF%E4%BA%A4%E6%B1%87%E4%B9%8B%E5%9C%B0%EF%BC%8C%E5%8E%86%E7%BB%8F%E6%88%98%E7%81%AB%EF%BC%8C%E4%BB%8D/"/>
-    <id>https://lazecate.github.io/2017/06/03/阿富汗浴火重光，果然是中西交汇之地，历经战火，仍/</id>
-    <published>2017-06-03T00:00:00.000Z</published>
-    <updated>2018-06-17T17:08:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>阿富汗浴火重光，果然是中西交汇之地，历经战火，仍然还有这么多珍宝幸存下来 （共10张图）（阅读全文: <a href="http://lazecate.lofter.com/post/3b2d0b_ffa240c" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a> 下载LOFTER客户端: <a href="http://www.lofter.com/app/QRCodedownload?act=qbposttoweibo_20140726_01" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a>） ​​​</p><p><img src="https://wx3.sinaimg.cn/large/62048f66ly1fg8eie5r7aj20hs0budhp.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;阿富汗浴火重光，果然是中西交汇之地，历经战火，仍然还有这么多珍宝幸存下来 （共10张图）（阅读全文: &lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_ffa240c&quot; target=&quot;_blank&quot; rel=&quot;noopener
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>明长城遗址公园， by Xpr...</title>
     <link href="https://lazecate.github.io/2017/05/29/%E6%98%8E%E9%95%BF%E5%9F%8E%E9%81%97%E5%9D%80%E5%85%AC%E5%9B%AD%EF%BC%8C-by-Xpr/"/>
     <id>https://lazecate.github.io/2017/05/29/明长城遗址公园，-by-Xpr/</id>
@@ -411,27 +356,6 @@
   </entry>
   
   <entry>
-    <title>明长城遗址公园， by Xpro2 富士的胶片色...</title>
-    <link href="https://lazecate.github.io/2017/05/29/%E6%98%8E%E9%95%BF%E5%9F%8E%E9%81%97%E5%9D%80%E5%85%AC%E5%9B%AD%EF%BC%8C-by-Xpro2-%E5%AF%8C%E5%A3%AB%E7%9A%84%E8%83%B6%E7%89%87%E8%89%B2/"/>
-    <id>https://lazecate.github.io/2017/05/29/明长城遗址公园，-by-Xpro2-富士的胶片色/</id>
-    <published>2017-05-29T00:00:00.000Z</published>
-    <updated>2018-06-17T17:08:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>明长城遗址公园， by Xpro2 富士的胶片色彩果然不错，但做工真是不敢恭维，快门声音也不好听，拨轮、机身质感都太差，把金属做出塑料感了都，都不如我的小7的手感。 （共10张图）（阅读全文: <a href="http://lazecate.lofter.com/post/3b2d0b_fe53854" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a> 下载LOFTER客户端: <a href="http://www.lofter.com/app/QRCodedownload?act=qbposttoweibo_20140726_01" target="_blank" rel="noopener"><span class="url-icon"><img src="//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" alt=""></span>网页链接</a>） ​​​</p><p><img src="https://wx2.sinaimg.cn/large/62048f66ly1fg2ghnc0cij20hs0bwmzk.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;明长城遗址公园， by Xpro2 富士的胶片色彩果然不错，但做工真是不敢恭维，快门声音也不好听，拨轮、机身质感都太差，把金属做出塑料感了都，都不如我的小7的手感。 （共10张图）（阅读全文: &lt;a href=&quot;http://lazecate.lofter.com/post
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>白川乡，晚樱也看了，雪山也看了...</title>
     <link href="https://lazecate.github.io/2017/05/20/%E7%99%BD%E5%B7%9D%E4%B9%A1%EF%BC%8C%E6%99%9A%E6%A8%B1%E4%B9%9F%E7%9C%8B%E4%BA%86%EF%BC%8C%E9%9B%AA%E5%B1%B1%E4%B9%9F%E7%9C%8B%E4%BA%86/"/>
     <id>https://lazecate.github.io/2017/05/20/白川乡，晚樱也看了，雪山也看了/</id>
@@ -445,6 +369,111 @@
       
       
         &lt;p&gt;&lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_fbe682c&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;http://imglf0.nosdn.127.net/img/ak0vS0Z
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>名古屋城外偶遇天鹅  by 潘...</title>
+    <link href="https://lazecate.github.io/2017/05/20/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9F%8E%E5%A4%96%E5%81%B6%E9%81%87%E5%A4%A9%E9%B9%85-by-%E6%BD%98/"/>
+    <id>https://lazecate.github.io/2017/05/20/名古屋城外偶遇天鹅-by-潘/</id>
+    <published>2017-05-20T13:09:25.000Z</published>
+    <updated>2018-06-17T16:23:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67bd" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaVBxQm4wTVNXZ3dWT2d4MFVwWFgrcUFmYW5vWHp2UkcyMkUyby9NbXBMelN3PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67bd" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaVBxQm4wTVNXZ3dWUFV3R0lmRUIrQ2QxbDZScWNxWGtuUXYvcFdla090ekV3PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67bd" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaVBxQm4wTVNXZ3dWQ3BrcjJsdFl2VmoxQ05COExXNEVOdjdpUEI5OWdqMzRRPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67bd" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaVBxQm4wTVNXZ3dWQ0x6YmsyOEQweHJ6cThXbnpzNUtwd3FtN1p6UCs3ZGNRPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67bd" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaVBxQm4wTVNXZ3dWT0dnSE9mZzA1MXR5ZXc1VGlDMUhiYWw5MnZOaTFoYmpRPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67bd" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaVBxQm4wTVNXZ3dWTWFpaGVuTTcrMldtNk5aTnBlSXBjakZ5dFM2dWFqUjlnPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67bd" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaVBxQm4wTVNXZ3dWTXVIczM4NWpLcWozNWxRVVBjMEV5L0dyOGdSM0h4N1NBPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67bd" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaVBxQm4wTVNXZ3dWSnB1ZUR5NkFrY09QWGNkSWtlNVYyRnNUSzhpSlR0WXNRPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br></p><p>名古屋城外偶遇天鹅<br><br>by 潘太康135<br></p><p><a href="http://lazecate.lofter.com" target="_blank" rel="noopener">LOFTER：浮生絮语&middot;得意忘言</a>&nbsp;&nbsp;&nbsp;<a href="http://lazecate.lofter.com/post/3b2d0b_fbe67bd" target="_blank" rel="noopener">http://lazecate.lofter.com/post/3b2d0b_fbe67bd</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_fbe67bd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;http://imglf2.nosdn.127.net/img/ak0vS0Z
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日本富山县阿尔卑斯线路，其实觉...</title>
+    <link href="https://lazecate.github.io/2017/05/20/%E6%97%A5%E6%9C%AC%E5%AF%8C%E5%B1%B1%E5%8E%BF%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E7%BA%BF%E8%B7%AF%EF%BC%8C%E5%85%B6%E5%AE%9E%E8%A7%89/"/>
+    <id>https://lazecate.github.io/2017/05/20/日本富山县阿尔卑斯线路，其实觉/</id>
+    <published>2017-05-20T13:07:17.000Z</published>
+    <updated>2018-06-17T16:23:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaU5DY2FjeHhacHA2VFlpUmdNSTdRRWozZXJod21BS1NPdkpjVGVrS3ZWdUFRPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaU5DY2FjeHhacHA2YnFmRGtpRExVSkNVVlJ1L0hLVzRSbjR1ZEhWZDJsT01nPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaU5DY2FjeHhacHA2ZGx3U0Y0K0RZMDA4ZWVLSy9IS2FTMU80OFNERHpLMUlRPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener"><img src="http://imglf0.nosdn.127.net/img/ak0vS0ZMWU1CaU5DY2FjeHhacHA2WlllR0FvU3BhY0U3STV1UkJzUC9SaDRTRUhWK1AyUGRnPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener"><img src="http://imglf.nosdn.127.net/img/ak0vS0ZMWU1CaU5DY2FjeHhacHA2VTRUUkI1SmROKzJzekk5UUxhbGhEZFlrN245WHVRNGNnPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaU5DY2FjeHhacHA2VnVxKzl3anQxTTViWXpUYTNtbDdmcGFtOGgrYnJrQWZ3PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener"><img src="http://imglf.nosdn.127.net/img/ak0vS0ZMWU1CaU5DY2FjeHhacHA2YnpZUktaRFhVdmV2OWErR1lqNW1SR0lUVlJzRWUydTJBPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener"><img src="http://imglf0.nosdn.127.net/img/ak0vS0ZMWU1CaU5DY2FjeHhacHA2WXVyRkQ1bFlrR3lxaHVaWXhkSjNWVDF5NFZWQUIxUHN3PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener"><img src="http://imglf.nosdn.127.net/img/ak0vS0ZMWU1CaU5DY2FjeHhacHA2U3FPUWhBbWNXT0J5UlloejlJZnZXSXcwNHZtdVBBVjNBPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener"><img src="http://imglf.nosdn.127.net/img/ak0vS0ZMWU1CaU55djE5SE9VTGNQUHVlTzJhYkN2bkhrK3hyK3BjRFpmTDdIY2QxazJJQzJ3PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br></p><p>日本富山县阿尔卑斯线路，其实觉得沿途风景很好，雪山为背景，晶亮的水田和整洁的日式小屋，画面感很好。<br><br>By 潘太康29<br></p><p><a href="http://lazecate.lofter.com" target="_blank" rel="noopener">LOFTER：浮生絮语&middot;得意忘言</a>&nbsp;&nbsp;&nbsp;<a href="http://lazecate.lofter.com/post/3b2d0b_fbe67b4" target="_blank" rel="noopener">http://lazecate.lofter.com/post/3b2d0b_fbe67b4</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_fbe67b4&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;http://imglf1.nosdn.127.net/img/ak0vS0Z
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>依旧潘太康29 2.8 MC，...</title>
+    <link href="https://lazecate.github.io/2017/04/15/%E4%BE%9D%E6%97%A7%E6%BD%98%E5%A4%AA%E5%BA%B729-2-8-MC%EF%BC%8C/"/>
+    <id>https://lazecate.github.io/2017/04/15/依旧潘太康29-2-8-MC，/</id>
+    <published>2017-04-15T13:28:07.000Z</published>
+    <updated>2018-06-17T16:23:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://lazecate.lofter.com/post/3b2d0b_f30c320" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaU9GUXdGSlAxU2dDcWxDTC93YXVkTFIxMnhIdGZJc0dEL0lXRmJHWkdjeWdBPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f30c320" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaU9GUXdGSlAxU2dDc202dVV5elJRYmNrYzRaSStPc2JjdGYxejM3TktUOUtBPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f30c320" target="_blank" rel="noopener"><img src="http://imglf.nosdn.127.net/img/ak0vS0ZMWU1CaU9GUXdGSlAxU2dDakRQSG9JbUsrQ0RXQkY4QVhUemtJZGtiMnVMT2NwVWJnPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f30c320" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaU9GUXdGSlAxU2dDcnV1aVNGRXIzQ0wrSE96czhIaFBqNWtQR2c4UHpaOTF3PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f30c320" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaU9GUXdGSlAxU2dDcHFHZWlRZXhlTUo0bWpaTmI2VVJqcFdDVFQzN1JPbzRnPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br></p><p>依旧潘太康29 2.8 MC，路灯照耀下的植物小剧场<br></p><p><a href="http://lazecate.lofter.com" target="_blank" rel="noopener">LOFTER：浮生絮语&middot;得意忘言</a>&nbsp;&nbsp;&nbsp;<a href="http://lazecate.lofter.com/post/3b2d0b_f30c320" target="_blank" rel="noopener">http://lazecate.lofter.com/post/3b2d0b_f30c320</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_f30c320&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;http://imglf2.nosdn.127.net/img/ak0vS0Z
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>潘太康29 MC，早上的光线真...</title>
+    <link href="https://lazecate.github.io/2017/04/12/%E6%BD%98%E5%A4%AA%E5%BA%B729-MC%EF%BC%8C%E6%97%A9%E4%B8%8A%E7%9A%84%E5%85%89%E7%BA%BF%E7%9C%9F/"/>
+    <id>https://lazecate.github.io/2017/04/12/潘太康29-MC，早上的光线真/</id>
+    <published>2017-04-12T00:12:48.000Z</published>
+    <updated>2018-06-17T16:23:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://lazecate.lofter.com/post/3b2d0b_f223923" target="_blank" rel="noopener"><img src="http://imglf0.nosdn.127.net/img/ak0vS0ZMWU1CaVBnUGhiR1phdjZNQ2R2cnM1eHh4dnJ2OXJHYzc3RUVPa3l4OHJ3YXhKc213PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f223923" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaVBnUGhiR1phdjZNT0hDY3N4dnlnSTMzejc4Rkx4QzZTVytJM2tNM1JCYW1BPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f223923" target="_blank" rel="noopener"><img src="http://imglf0.nosdn.127.net/img/ak0vS0ZMWU1CaVBnUGhiR1phdjZNRDdobmIyYlpBN3pybEFqV2JjdGUvKys5RXhQMGV4T3B3PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f223923" target="_blank" rel="noopener"><img src="http://imglf0.nosdn.127.net/img/ak0vS0ZMWU1CaVBnUGhiR1phdjZNSGxkSzJSbUpMYWR2WmpUU0R5OVN5TXJLRXFzc3FZenRBPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f223923" target="_blank" rel="noopener"><img src="http://imglf.nosdn.127.net/img/ak0vS0ZMWU1CaVBnUGhiR1phdjZNQTVZeEgyUHlBRlhrQ1JLS0lGNVlBZElqc2NaVFl5K2ZRPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f223923" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaVBnUGhiR1phdjZNRVlaS1NmdVo1Ky9ZWFluRFdnSVpnQTZXVktoL1RKUjNnPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br></p><p>潘太康29 MC，早上的光线真好<br></p><p><a href="http://lazecate.lofter.com" target="_blank" rel="noopener">LOFTER：浮生絮语&middot;得意忘言</a>&nbsp;&nbsp;&nbsp;<a href="http://lazecate.lofter.com/post/3b2d0b_f223923" target="_blank" rel="noopener">http://lazecate.lofter.com/post/3b2d0b_f223923</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_f223923&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;http://imglf0.nosdn.127.net/img/ak0vS0Z
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>海棠花溪2，这一波是潘太康29...</title>
+    <link href="https://lazecate.github.io/2017/04/08/%E6%B5%B7%E6%A3%A0%E8%8A%B1%E6%BA%AA2%EF%BC%8C%E8%BF%99%E4%B8%80%E6%B3%A2%E6%98%AF%E6%BD%98%E5%A4%AA%E5%BA%B729/"/>
+    <id>https://lazecate.github.io/2017/04/08/海棠花溪2，这一波是潘太康29/</id>
+    <published>2017-04-08T10:11:36.000Z</published>
+    <updated>2018-06-17T16:23:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener"><img src="http://imglf.nosdn.127.net/img/ak0vS0ZMWU1CaVBOOVF4SlZqeUlON1lwNnNMV2NDR2Jaa3VXYllxTDEwamh1dXhVUnVJT21RPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaU5uOFhYUmlvMkpwZDc3Q3dRN0lPcmMzN01vL3dZQkNYUzhQNXIrWlQ4OG53PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener"><img src="http://imglf0.nosdn.127.net/img/ak0vS0ZMWU1CaU5uOFhYUmlvMkpwVy9Eck1LaXU3b0llSGtwMy92akJGSHdqT1kvSGdsajh3PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaVBOOVF4SlZqeUlOMzVodTVPRUJmdjVpYnhJTDB6c3FOU29DR001eDQyQkhnPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener"><img src="http://imglf0.nosdn.127.net/img/ak0vS0ZMWU1CaVBOOVF4SlZqeUlOempCalM4S0FzVlpHRnFnekNqQ3k1dGlKRS9vQlJpU2ZBPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaVBOOVF4SlZqeUlOd2ZXSDJRenR6QkdnbVIyNmNrQlRoWnZvZEVVZ2VGUVl3PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaVBOOVF4SlZqeUlOeUhNVWhOQkZaRDI0aFp1RWFxcm12UHlmUVpQTHAwUkFRPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener"><img src="http://imglf2.nosdn.127.net/img/ak0vS0ZMWU1CaVBOOVF4SlZqeUlOeWpTTGdiTXFTV3dya0pDNjdnUUFDM2JKOXJtQmdxM0d3PT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaU5iN29rd0xTcXhacjhEQURvVmUyM3lNQlU0S0lPUU1OYk9tMjIxR09uY25nPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br><br><a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener"><img src="http://imglf1.nosdn.127.net/img/ak0vS0ZMWU1CaU5iN29rd0xTcXhaa2VkV0t3aWJoYUlvbE0yVXplbDV2Y093TXhrcGl5ZTZnPT0.jpg?imageView&amp;thumbnail=500x10000&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=1&amp;dx=0&amp;gravity=southwest&amp;dissolve=100&amp;image=aW1nL3N5cy9zZWxlY3Rpb24tcnNzLXdhdGVybWFyay5wbmc=" alt=""></a><br></p><p>海棠花溪2，这一波是潘太康29 2.8 MC，貌似加的 uv 镜影响通透性了<br></p><p><a href="http://lazecate.lofter.com" target="_blank" rel="noopener">LOFTER：浮生絮语&middot;得意忘言</a>&nbsp;&nbsp;&nbsp;<a href="http://lazecate.lofter.com/post/3b2d0b_f13df00" target="_blank" rel="noopener">http://lazecate.lofter.com/post/3b2d0b_f13df00</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://lazecate.lofter.com/post/3b2d0b_f13df00&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;http://imglf.nosdn.127.net/img/ak0vS0ZM
       
     
     </summary>
