@@ -6,7 +6,7 @@
   <link href="/juindoll/atom.xml" rel="self"/>
   
   <link href="https://lazecate.github.io/"/>
-  <updated>2018-06-18T04:42:00.000Z</updated>
+  <updated>2018-06-18T06:05:10.000Z</updated>
   <id>https://lazecate.github.io/</id>
   
   <author>
@@ -21,20 +21,21 @@
     <link href="https://lazecate.github.io/2018/06/18/The-Big-Migration-of-Blog/"/>
     <id>https://lazecate.github.io/2018/06/18/The-Big-Migration-of-Blog/</id>
     <published>2018-06-18T01:49:37.000Z</published>
-    <updated>2018-06-18T04:42:00.000Z</updated>
+    <updated>2018-06-18T06:05:10.000Z</updated>
     
-    <content type="html"><![CDATA[<p>昨天终于把<code>GitHub</code>的<code>hexo</code>博客服务整好了,而且有了<code>Mobirise</code>的自建站服务，终于可以像模像样给自己搞个主页了。但这么一来可能需要定期做页面内容的运营维护，决定哪些PO出来。</p><p>   我的主页：</p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">[https://lazecate.github.io/whale/](https://lazecate.github.io/whale/)     </span><br><span class="line"> ``` </span><br><span class="line"> </span><br><span class="line"></span><br><span class="line"></span><br><span class="line">对于折腾自有空间这件事，我似乎永远有热情，而且最近几年好像每到年中总会折腾一次，真是奇怪的现象。</span><br></pre></td></tr></table></figure><pre><code>理想的周末应该有三天           一天用来赖床        一天用来打扫收拾断舍离最后一天用来发现新鲜玩乐</code></pre><p>  <code>`</code></p><a id="more"></a><p>这次决定将自己散落在各种空间博客的文章汇总到一处。从昨天开始，试了下各种博客迁移服务，正好简单评价一下：</p><p><code>WordPress</code>绝对是<code>NO1</code>，支持一键导出XML，而且格式图片都不丢，标签分类无缝衔接，当然可能是跟hexo衔接紧密。</p><p>其他所有空间可能由于运营思路的问题，大概都将用户产生的数据作为了自己拥有的东西，都是导出不友好。最后，迁移这些数据都是靠RSS来解决，还好hexo支持RSS迁移。说到能方便的生成RSS链接，支持最好的是lofter，简书，上传的图片是放在原始发布的站点的，比如LOFTER，比如新浪博客。如果这些图床关闭外链了，可能图片就显示不了了。</p><p>体验最差的就是新浪了，老的新浪博客不说，大概因为是WEB2.0以前的产物。新浪微博也是各种防，可能是因为分页之类的，即使用<a href="https://docs.rsshub.app/" target="_blank" rel="noopener">RSSHUB</a>也只拽了第一页。看来剩下的数据，都要手工迁移了，以后各种公共博客服务拜拜了您呐。</p><hr><p>由此产生的反思：</p><hr><pre><code>1.虽然技术不断发展，但整理信息的思路还是那一套，标签、分类等等，也就是图书馆、档案管理学那些思路。2.产生这个现象，是因为虽然技术发展和迭代可以很快，但如果不是理论逻辑上的根本创新，那么只是表层表现的变迁。3.技术与技术的代际更迭之间存在兼容性，原因是没有人是凭空创新，总是在原有基础上发现亟待满足的需求，再改进。4.用标签和分类这种抽样抽象真的能代替信息本身么？这样的抽象的结果是不是还是无法突破人脑在信息处理的极限。也就是说，假设一个人处理原子信息的上限是500条——代表他阅读后在头脑中产生大概的印象，并能处理组合出一个相互关系，那么即使大数据、云计算再牛，也只是两条分支歧途：   · 其一，组合出关键信息关系的工作由AI模拟人来做，这条分支的走向想想就可怕   · 其二，大量碎片冗余无用信息，虽然整理出来了，但超出人的处理能力，这个貌似就是当下的情况了</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>昨天终于把<code>GitHub</code>的<code>hexo</code>博客服务整好了,而且有了<code>Mobirise</code>的自建站服务，终于可以像模像样给自己搞个主页了。但这么一来可能需要定期做页面内容的运营维护，决定哪些PO出来。</p><pre><code>我的主页：  [https://lazecate.github.io/whale/](https://lazecate.github.io/whale/)     </code></pre><p>对于折腾自有空间这件事，我似乎永远有热情，而且最近几年好像每到年中总会折腾一次，真是奇怪的现象。</p><pre><code>理想的周末应该有三天           一天用来赖床        一天用来打扫收拾断舍离最后一天用来发现新鲜玩乐</code></pre><a id="more"></a><p>这次决定将自己散落在各种空间博客的文章汇总到一处。从昨天开始，试了下各种博客迁移服务，正好简单评价一下：</p><p><code>WordPress</code>绝对是<code>NO1</code>，支持一键导出XML，而且格式图片都不丢，标签分类无缝衔接，当然可能是跟hexo衔接紧密。</p><p>其他所有空间可能由于运营思路的问题，大概都将用户产生的数据作为了自己拥有的东西，都是导出不友好。最后，迁移这些数据都是靠RSS来解决，还好hexo支持RSS迁移。说到能方便的生成RSS链接，支持最好的是lofter，简书，上传的图片是放在原始发布的站点的，比如LOFTER，比如新浪博客。如果这些图床关闭外链了，可能图片就显示不了了。</p><p>体验最差的就是新浪了，老的新浪博客不说，大概因为是WEB2.0以前的产物。新浪微博也是各种防，可能是因为分页之类的，即使用<a href="https://docs.rsshub.app/" target="_blank" rel="noopener">RSSHUB</a>也只拽了第一页。看来剩下的数据，都要手工迁移了，以后各种公共博客服务拜拜了您呐。</p><hr><p>由此产生的反思：</p><hr><pre><code>1.虽然技术不断发展，但整理信息的思路还是那一套，标签、分类等等，也就是图书馆、档案管理学那些思路。2.产生这个现象，是因为虽然技术发展和迭代可以很快，但如果不是理论逻辑上的根本创新，那么只是表层表现的变迁。3.技术与技术的代际更迭之间存在兼容性，原因是没有人是凭空创新，总是在原有基础上发现亟待满足的需求，再改进。4.用标签和分类这种抽样抽象真的能代替信息本身么？这样的抽象的结果是不是还是无法突破人脑在信息处理的极限。也就是说，假设一个人处理原子信息的上限是500条——代表他阅读后在头脑中产生大概的印象，并能处理组合出一个相互关系，那么即使大数据、云计算再牛，也只是两条分支歧途：   · 其一，组合出关键信息关系的工作由AI模拟人来做，这条分支的走向想想就可怕   · 其二，大量碎片冗余无用信息，虽然整理出来了，但超出人的处理能力，这个貌似就是当下的情况了</code></pre>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;昨天终于把&lt;code&gt;GitHub&lt;/code&gt;的&lt;code&gt;hexo&lt;/code&gt;博客服务整好了,而且有了&lt;code&gt;Mobirise&lt;/code&gt;的自建站服务，终于可以像模像样给自己搞个主页了。但这么一来可能需要定期做页面内容的运营维护，决定哪些PO出来。&lt;/p&gt;
-&lt;p&gt;   我的主页：&lt;/p&gt;
- &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[https://lazecate.github.io/whale/](https://lazecate.github.io/whale/)     &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; ``` &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;对于折腾自有空间这件事，我似乎永远有热情，而且最近几年好像每到年中总会折腾一次，真是奇怪的现象。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;pre&gt;&lt;code&gt;我的主页：  
+[https://lazecate.github.io/whale/](https://lazecate.github.io/whale/)     
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;对于折腾自有空间这件事，我似乎永远有热情，而且最近几年好像每到年中总会折腾一次，真是奇怪的现象。&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;理想的周末应该有三天           
 一天用来赖床        
 一天用来打扫收拾断舍离
 最后一天用来发现新鲜玩乐
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;  &lt;code&gt;`&lt;/code&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;
     
     </summary>
     
