@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>鲸读- v5 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M70,140 C108.659932,140 140,108.659932 140,70 C140,31.3400675 108.659932,0 70,0 C31.3400675,0 0,31.3400675 0,70 C0,108.659932 31.3400675,140 70,140 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#62788A" offset="0%"></stop>
+            <stop stop-color="#334352" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="38.1086148%" x2="32.0296953%" y2="98.9603521%" id="linearGradient-4">
+            <stop stop-color="#617483" offset="0%"></stop>
+            <stop stop-color="#32404C" offset="100%"></stop>
+        </linearGradient>
+        <path d="M56.0957831,79.5974714 C65.9087914,102.55437 52.293465,112.176345 47.5106817,113.642768 C20.1194484,156.06915 18.3017733,163.749282 33.2412433,163.749282 C71.9011757,163.749282 103.241243,132.409214 103.241243,93.7492817 C103.241243,55.0893493 73.1090051,35.4308833 80.262471,41.0329594 C56.0957831,23.1037958 111.164375,64.1773944 56.0957831,79.5974714 Z" id="path-5"></path>
+        <radialGradient cx="55.5193271%" cy="-18.1398145%" fx="55.5193271%" fy="-18.1398145%" r="128.912876%" gradientTransform="translate(0.555193,-0.181398),scale(0.463580,1.000000),rotate(125.995393),scale(1.000000,0.698688),translate(-0.555193,0.181398)" id="radialGradient-7">
+            <stop stop-color="#C1E3FB" offset="0%"></stop>
+            <stop stop-color="#38AFEF" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="鲸读--v5-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(16.000000, 20.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval" fill-opacity="0.7" fill="#A8DCFA" xlink:href="#path-1"></use>
+            <path d="M161.373926,88.2702964 C161.373926,88.2702964 150.927237,64.936963 138.040593,64.936963 C125.153949,64.936963 114.707259,88.2702964 114.707259,88.2702964 C138.040593,75.3836523 135.00338,75.3836523 161.373926,88.2702964 Z" id="Oval-2-Copy" fill="url(#linearGradient-3)" transform="translate(138.040593, 76.603630) scale(-1, -1) rotate(372.000000) translate(-138.040593, -76.603630) "></path>
+            <path d="M68.579517,19.9217279 C100.929376,37.4824962 28.6001057,69.6900913 19.0099464,102.099767 C2.15237802,145.403154 38.8378642,154.500433 53.7773341,154.500433 C92.4372666,154.500433 123.777334,123.160365 123.777334,84.5004326 C123.777334,52.2247597 101.041051,23.8285541 71.7809349,16.438832 C65.9931647,14.9771148 65.0015139,17.9794479 68.579517,19.9217279 Z" id="Mask" fill-opacity="0.95" fill="url(#linearGradient-4)" transform="translate(69.224742, 85.275691) rotate(90.000000) translate(-69.224742, -85.275691) "></path>
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <g id="Mask" transform="translate(63.581121, 100.168161) rotate(90.000000) translate(-63.581121, -100.168161) "></g>
+            <g id="belly" mask="url(#mask-6)">
+                <g transform="translate(0.000000, 8.166667)">
+                    <circle id="Combined-Shape" fill="#CDCDCD" cx="70" cy="70" r="70"></circle>
+                    <path d="M70,133 C102.21661,133 128.333333,106.883277 128.333333,74.6666667 C128.333333,42.4500563 102.21661,16.3333333 70,16.3333333 C37.7833896,16.3333333 11.6666667,42.4500563 11.6666667,74.6666667 C11.6666667,106.883277 37.7833896,133 70,133 Z" id="Combined-Shape" fill="#D4D4D4"></path>
+                    <ellipse id="Combined-Shape" fill="#E4E4E4" cx="77" cy="81.0833333" rx="51.3333333" ry="50.75"></ellipse>
+                    <ellipse id="Combined-Shape" fill="#EBEBEB" cx="89.25" cy="89.8333333" rx="41.4166667" ry="36.1666667"></ellipse>
+                    <ellipse id="Oval-3" fill="#F6F6F6" cx="98.5833333" cy="86.9166667" rx="34.4166667" ry="28.5833333"></ellipse>
+                </g>
+            </g>
+            <ellipse id="Oval-2" stroke="#E3EFEF" fill="#000000" transform="translate(70.228844, 81.041452) rotate(30.000000) translate(-70.228844, -81.041452) " cx="70.2288445" cy="81.0414519" rx="7" ry="4.66666667"></ellipse>
+            <path d="M39.3020726,10.7622319 C39.3020726,10.7622319 46.7867338,4.77589038 52.1249625,10.7622321 C57.4631912,16.7485738 53.6041167,26.4594817 53.6041167,26.4594817 C53.6041167,26.4594817 73.8855923,8.48562739 89.5174543,13.5891827 C105.149316,18.692738 85.3490366,37.052973 85.3490366,33.7782118 C85.3490366,25.9635286 68.5753576,24.9038269 50.2973543,31.7005229 C50.2973547,16.9048089 39.3020726,10.7622319 39.3020726,10.7622319 Z" id="Path-3" fill-opacity="0.8" fill="url(#radialGradient-7)"></path>
+        </g>
+    </g>
+</svg>
